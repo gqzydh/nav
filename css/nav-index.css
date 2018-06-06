@@ -7,18 +7,19 @@ a { text-decoration: none }
 .container, .main, body { background: #f3f6f8 }
 /* .content { -webkit-box-flex: 1 } */
 @media (min-width:481px) {
-	.container .left-bar { width: 248px; z-index: 100; height: 100vh; display: flex; background: #30333c; box-sizing: border-box; flex-direction: column; color: #6b7386 }
+	.container .left-bar { width: 220px; z-index: 100; height: 100vh; display: flex; background: #30333c; box-sizing: border-box; flex-direction: column; color: #6b7386 }
 	.container .left-bar .nav { flex: 1; overflow: hidden; -webkit-overflow-scrolling: touch; -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1 }
 	.container .left-bar .nav .category-nav, .container .left-bar .nav .item { position: relative }
 	.container .left-bar .nav .item .hairlines { position: absolute; height: 24px; right: 0; top: 11px }
 	.container .left-bar .nav .item:hover .hairlines { background: #494f5e }
 	.container .left-bar .nav .item.active .hairlines { background: #3a85ff }
-	.container .left-bar .nav .item.msg-board { position: fixed; z-index: 100; bottom: 1px; width: 200px; background: #30333c }
+	.container .left-bar .nav .item.msg-board { position: fixed; z-index: 100; bottom: 1px; width: 168px; background: #30333c }
 	.container .left-bar .nav .item.msg-board .arrow { position: absolute; right: 0; top: 0; cursor: pointer }
 	.container .left-bar .nav .nav-item { max-height: 100vh; overflow-y: scroll }
 	.container .left-bar .nav .nav-item::-webkit-scrollbar { width: 4px }
 	.container .left-bar .nav .nav-item::-webkit-scrollbar-thumb { background-color: #494f5e; border-radius: 0 }
 	.container .left-bar .nav .nav-item::-webkit-scrollbar-track { border-radius: 0 }
+	.container .left-bar .nav .nav-item .ul_menu{ margin-top: 7px; }
 	.container .left-bar .nav li, .container .left-bar .nav ul { box-sizing: border-box; min-height: 100% }
 	.container .left-bar .nav ul { overflow: hidden }
 	.container .left-bar .nav li.active, .container .left-bar .nav li:hover { cursor: pointer }
@@ -26,7 +27,7 @@ a { text-decoration: none }
 	.container .left-bar .nav .menu-list-shadow.is-top { background: linear-gradient(rgba(0, 0, 0, .1), transparent); height: 1rem; top: 0; -webkit-transform-origin: center top; transform-origin: center top }
 	.container .left-bar .nav .menu-list-shadow.is-bottom { background: linear-gradient(transparent, rgba(0, 0, 0, .1)); bottom: 0; height: 1rem; opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1); -webkit-transform-origin: center bottom; transform-origin: center bottom }
 	.container .left-bar .nav .menu-list-shadow { display: block; left: 0; opacity: 0; pointer-events: none; position: absolute; right: 0 }
-	.main #mainContent { max-width: 100%; margin: 0 auto }
+	.main #mainContent { max-width: 100%; margin: 0 auto; }
 	.main .fe .item:hover { transform: translateY(-6px); -webkit-transform: translateY(-6px); -moz-transform: translateY(-6px); box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); -webkit-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); -moz-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); transition: all .3s ease }
 }
 .recommend { height: 160px; background: #fff; color: #333; font-size: 16px; line-height: 22px; padding: 4px 36px; bottom: 30px }
@@ -36,23 +37,24 @@ a { text-decoration: none }
 .recommend .recommend-icon a { margin-left: 6px; font-size: 13px; color: #5491ff; background: #e7f4ff; padding: 2px 8px; border-radius: 4px }
 .recommend .recommend-icon a:hover { background: #3a85ff; color: #fff }
 .container .left-bar { position: fixed; padding: 0 24px; z-index: 10000 }
-.container .left-bar .title { color: #fff; font-size: 18px; height: 50px; line-height: 50px }
+.container .left-bar .title { color: #fff; font-size: 18px; height: 50px; line-height: 50px;border-bottom: 2px solid hsla(0, 0%, 100%, .04);}
 .container .left-bar .title p { text-align: center }
 .container .left-bar .nav .item { height: 48px; line-height: 46px; border-top: 2px solid hsla(0, 0%, 100%, .04); border-bottom: 2px solid hsla(0, 0%, 100%, .04) }
 .container .left-bar .nav .item i { color: #6b7386; padding-right: 4px }
 .container .left-bar .nav .item a { display: inline-block; width: 100%; color: #fff }
-.container .left-bar .nav li { height: 32px; line-height: 32px; padding-left: 20px }
+.container .left-bar .nav li { height: 32px; line-height: 32px; padding-left: 30px }
 .container .left-bar .nav li i { padding-right: 15px; font-size: 12px; color: #6b7386 }
 .container .left-bar .nav li i.icon-goujian { padding-right: 10px; margin-left: 0 }
-.container .left-bar .nav li a { text-decoration: none; font-size: 12px; display: inline-block; width: 100%; color: #6b7386 }
-.container .main { display: -webkit-box; display: flex; position: relative; -webkit-box-orient: vertical; flex-direction: column; -webkit-box-pack: center; justify-content: center; margin-left: 248px }
+.container .left-bar .nav li a { text-decoration: none; font-size: 13px; display: inline-block; width: 100%; color: #6b7386 }
+.container .left-bar .nav .ul_menu li:first-child a{color: #fff }
+.container .main { display: -webkit-box; display: flex; position: relative; -webkit-box-orient: vertical; flex-direction: column; -webkit-box-pack: center; justify-content: center; margin-left: 220px }
 .container .main #bookShareItem .item .logo img { border-radius: 0 }
 .container .main #wechatSubscriptionItem .item .title { text-align: center; margin-bottom: 0; margin-left: 0 }
 .container .main #wechatSubscriptionItem .item .logo { overflow: auto; float: none; width: auto; height: auto; border-radius: 0; text-align: center; padding: 0 }
 .container .main #wechatSubscriptionItem .item .logo img { width: 127px; height: 127px; border-radius: 0 }
 .container .main #wechatSubscriptionItem .item .desc { height: 20px; margin-top: 0; margin-bottom: 18px; text-align: center }
 .container .main #wechatSubscriptionItem .item .desc p { text-overflow: ellipsis; overflow: hidden; white-space: nowrap; width: 96% }
-.container .main .fe { overflow: hidden; background: #fff; margin: 20px 30px; padding-bottom: 20px; border-radius: 7px;}
+.container .main .fe { overflow: hidden; background: #fff; margin: 20px 36px 20px 20px; padding-bottom: 20px; border-radius: 7px;}
 .container .main .fe .sub-category>div { padding: 12px 0 0 2.1%; font-size: 18px }
 .container .main .fe .sub-category>div i { font-size: 18px }
 .container .main .fe:last-child { margin-bottom: 35px }
@@ -68,6 +70,9 @@ a { text-decoration: none }
 .container .footer .recommend, .container .footer p { display: none }
 .container .footer .copyright { margin-left: 30px; color: #949494; font-size: 12px }
 .container .footer .copyright a { text-decoration: none; color: #3a85ff }
+
+.to-top { display: none; padding:6px 5px 5px 3px; color: #fff; background-color: #bbe299;word-wrap: break-word; letter-spacing: 3px; writing-mode: vertical-lr; box-shadow: 1px 3px 3px #888888;}
+.to-top:hover{ background-color: #71d859; box-shadow: 2px 4px 5px #888888;}
 @media (max-width:480px) {
 	.container .left-bar { -webkit-transform: translateZ(0); position: fixed; z-index: 1000; width: 100%; top: 0; padding: 0 }
 	.container .left-bar .title { display: none }
