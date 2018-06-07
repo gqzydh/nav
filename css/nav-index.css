@@ -27,7 +27,7 @@ a { text-decoration: none }
 	.container .left-bar .nav .menu-list-shadow.is-top { background: linear-gradient(rgba(0, 0, 0, .1), transparent); height: 1rem; top: 0; -webkit-transform-origin: center top; transform-origin: center top }
 	.container .left-bar .nav .menu-list-shadow.is-bottom { background: linear-gradient(transparent, rgba(0, 0, 0, .1)); bottom: 0; height: 1rem; opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1); -webkit-transform-origin: center bottom; transform-origin: center bottom }
 	.container .left-bar .nav .menu-list-shadow { display: block; left: 0; opacity: 0; pointer-events: none; position: absolute; right: 0 }
-	.main #mainContent { max-width: 100%; margin: 0 auto; }
+	.main #mainContent { max-width: 100%;}
 	.main .fe .item:hover { transform: translateY(-6px); -webkit-transform: translateY(-6px); -moz-transform: translateY(-6px); box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); -webkit-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); -moz-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); transition: all .3s ease }
 }
 .recommend { height: 160px; background: #fff; color: #333; font-size: 16px; line-height: 22px; padding: 4px 36px; bottom: 30px }
@@ -58,7 +58,7 @@ a { text-decoration: none }
 .container .main .fe .sub-category>div { padding: 12px 0 0 2.1%; font-size: 18px }
 .container .main .fe .sub-category>div i { font-size: 18px }
 .container .main .fe:last-child { margin-bottom: 35px }
-.container .main .fe .item { border-radius: 6px; background: #f7f7f7; padding: 10px; width: 20%; min-width: 200px; margin: 22px 0 0 2.1%; float: left; overflow: hidden; border: 1px solid #f2f2f2; box-shadow: 1px 2px 3px #f2f6f8 }
+.container .main .fe .item { border-radius: 6px; background: #f7f7f7; padding: 10px; width: 16%; min-width: 200px; margin: 22px 0 0 2.1%; float: left; overflow: hidden; border: 1px solid #f2f2f2; box-shadow: 1px 2px 3px #f2f6f8 }
 .container .main .fe .item .title { font-size: 14px; font-weight: 700; margin: 10px; margin-left: 50px; color: #3273dc; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 0 .1rem }
 .container .main .fe .item .desc { color: gray; font-size: 12px; padding-top: 10px; height: 35px; overflow: hidden; border-top: 1px solid #ebebeb;
     margin-top: 10px; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical }
@@ -73,6 +73,8 @@ a { text-decoration: none }
 
 .to-top { display: none; padding:6px 5px 5px 3px; color: #fff; background-color: #bbe299;word-wrap: break-word; letter-spacing: 3px; writing-mode: vertical-lr; box-shadow: 1px 3px 3px #888888;}
 .to-top:hover{ background-color: #71d859; box-shadow: 2px 4px 5px #888888;}
+
+.but-submit{ padding: 10px; background-color: #900000; font-size: 16px; }
 @media (max-width:480px) {
 	.container .left-bar { -webkit-transform: translateZ(0); position: fixed; z-index: 1000; width: 100%; top: 0; padding: 0 }
 	.container .left-bar .title { display: none }
@@ -116,5 +118,5 @@ a { text-decoration: none }
 	.container .main .fe .item { width: 28% }
 }
 @media (min-width:1200px) {
-	.container .main .fe .item { width: 20% }
+	.container .main .fe .item { width: 16% }
 }

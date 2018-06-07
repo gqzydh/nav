@@ -3,7 +3,8 @@
 > 收集整理，常用网站，兴趣网站 
 
 ## 导航分类
-文档-API - api
+1. 常用资源
+2. 文档-API
 开发社区 - developmentCommunity
 前端门户 - frontDoor
 开发平台 - developmentPlatform

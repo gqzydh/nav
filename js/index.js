@@ -7,18 +7,16 @@ $(function(){
             },
 		dataType: 'json',
 		success: function(json){
-			console.log("kkk===",json);
 			if(json != ''){
 				var navData = json
-				var navigations = json.navigation
 
 					console.log("kkk01===",navData);
-					console.log("kkk02===",navigations);
-				}
+				
 			var navHtml = template("tpl-nav",navData);
-			var contentHtml = template("tpl-content",navData);
+			var conList = template("tpl-content",navData);
 			document.getElementById('category').innerHTML = navHtml;
-			document.getElementById('mainContent').innerHTML = contentHtml;
+			document.getElementById('mainContent').innerHTML = conList;
+			}
 
 			$(window).scroll(function(){
                 var scrollTop = $(document).scrollTop();
@@ -66,3 +64,4 @@ $(function(){
 	});
 	$('.to-top').toTop()
 });
+

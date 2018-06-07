@@ -59,7 +59,7 @@
     <!-- 左边分类导航 -->
     <script id="tpl-nav" type="text/html">
          <ul class="ul_menu">
-            {{each navigation value n}}
+            {{each navList value n}}
                 <li><a flag="item{{n + 1}}" data-id="">{{value.title}}</a></li>
             {{/each}}
         </ul>    
@@ -68,34 +68,32 @@
     <!-- 右边英雄区 -->
     <script id="tpl-content" type="text/html">
         <div id="mainContents">
-            {{each mainContent value i}} 
-            {{each navigation valt n}}
-            <div class="fe" id="item{{i+1}}">
-                <div class="sub-category">
-                    <div>{{valt.title}}</div>
+             {{each navList value i}} 
+                <div class="fe" id="item{{n+1}}">
+                    <div class="sub-category">
+                        <div>{{value.title}}</div>
+                    </div>
+                     {{include 'detaiList' value}}
                 </div>
-                <div>
-                     
-                    {{each value vall n}} 
-                        {{each vall values e}}
-                        <a target="_blank" href="{{values.url}}">
-                        <div class="item">
-                            <div class="logo">
-                                <img data-original="{{values.icon}}" width="100%" class="" src="{{values.icon}}">
-                                {{e}} - {{values.name}}
-                            </div>
-                            <div class="desc">
-                               {{values.des}}
-                            </div>
-                        </div>
-                        </a>
-                        {{/each}} 
-                    {{/each}} 
+            {{/each}}
+        </div>
+    </script>
+    <script type="text/html" id="detaiList">
+      {{each con value i}}
+        <div>
+            <a target="_blank" href="{{value.url}}">
+            <div class="item">
+                <div class="logo">
+                    <img data-original="{{value.icon}}" width="100%" class="" src="{{value.icon}}">
+                   {{value.name}}
+                </div>
+                <div class="desc">
+                   {{value.des}}
                 </div>
             </div>
-            {{/each}}
-            {{/each}} 
-    </div>
+            </a>
+        </div>
+      {{/each}}
     </script>
 <!-- 放回顶部 -->
 <pre><a class="to-top">返回顶部</a></pre>
