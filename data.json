@@ -9,7 +9,327 @@
           "icon": "https://tinypng.com/images/apple-touch-icon.png",
           "des": "TinyPNG使用智能有损压缩技术来减少 PNG文件的文件大小。",
           "tags": ["工具"]
-        }
+        },{
+    "name":"浏览器市场份额 - 百度统计",
+    "url":"http://tongji.baidu.com/data/browser",
+    "des":"百度统计流量研究院",
+    "tags":["工具","统计"]
+},{
+    "name":"CodePen代码笔",
+    "url":"http://codepen.io/",
+    "des":"前端工程师必备的技术网站，直接在显示编辑代码片段并分享。codepen！寻找交互灵感的圣地",
+    "tags":["工具","互交设计","在线编辑器"]
+},{
+    "name":"RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码",
+    "url":"http://runjs.cn/",
+    "des":"RunJS,在线编写、展示html、js、css代码，拥有实时预览、分享、Fork、代码高亮、自动完成等多项特性，提供文件上传、多种登录方式。",
+    "tags":["社区","工具","互交设计","在线编辑器"]
+},{
+    "name":"plainJS - The Vanilla JavaScript Repository",
+    "url":"https://plainjs.com/",
+    "des":"该仓库都是用原生js写的插件和组件，很实用",
+    "tags":["工具","插件","组件"]
+},{
+    "name":"Can I use",
+    "url":"http://caniuse.com/",
+    "des":"这是一个极好的网站，查询你使用的属性方法在浏览器中的兼容。",
+    "tags":["工具","caniuse"]
+}
+      ]
+    },
+    {
+      "title": "开发社区",
+      "con": [
+        {
+          "name":"Mozilla 开发者网络",
+    "url":"https://developer.mozilla.org/zh-CN/",
+    "icon":"https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
+    "des":"Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
+    "tags":["社区"]
+        },{
+    "name":"Stack Overflow",
+    "url":"http://stackoverflow.com/",
+    "icon":"http://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded&a",
+    "des":"一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。",
+    "tags":["社区"]
+},{
+    "name":"掘金",
+    "url":"http://gold.xitu.io/",
+    "des":"掘金是中国质量最高的技术分享社区，邀请稀土用户作为 Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个掘金用户都能挖掘到有价值的干货。",
+    "tags":["社区"]
+},{
+    "name":"Segmentfault",
+    "url":"https://segmentfault.com/",
+    "des":"专注于程序员开发者的社区平台，提供开发相关的高质量问答，专栏，笔记，招聘，线下活动等服务。",
+    "icon":"https://sf-static.b0.upaiyun.com/v-56f75f77/global/img/touch-icon.png",
+    "tags":["社区"]
+},{
+    "name":"前端乱炖",
+    "url":"http://html-js.com/",
+    "des":"前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。",
+    "tags":["社区"]
+},{
+    "name":"Div.IO",
+    "url":"http://div.io/",
+    "des":"高质量前端资源汇聚",
+    "tags":["社区"]
+},{
+    "name":"w3cplus",
+    "url":"http://www.w3cplus.com/",
+    "icon":"http://cdn1.w3cplus.com/cdn/farfuture/6I7SmeJ6bvYzRevkkH6pjf9WnDTRa7YEBbsCyi6dPro/mtime:1414079820/sites/all/themes/w3cplusV2/favicon.ico",
+    "des":"w3cplus提供了大量的css,css3,sass,responsive,mobile等最新前端技术文章、demo及下载资源，以一起学习进步，共同分享为原则，为打造优秀的前端学习教程而努力。",
+    "tags":["社区"]
+},{
+    "name":"前端网（W3Cfuns）",
+    "url":"http://www.w3cfuns.com/",
+    "des":"前端网（W3Cfuns），人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台！前端未来，我们打造！",
+    "tags":["社区"]
+},{
+    "name":"w3ctech",
+    "url":"http://w3ctech.com/",
+    "des":"web标准化交流会",
+    "tags":["社区"]
+},{
+    "name":"W3C在线检验",
+    "url":"http://validator.w3.org/",
+    "icon":"http://www.w3.org/2008/site/images/favicon.ico",
+    "des":"W3C在线检验",
+    "tags":["社区"]
+},{
+    "name":"Web App Trend",
+    "url":"http://www.webapptrend.com/",
+    "des":"关注跨平台开发以及Web App技术发展与实践",
+    "tags":["社区"]
+},{
+    "name":"F2E - 前端技术社区",
+    "url":"http://f2e.im/",
+    "des":"前端技术社区，分享讨论。",
+    "tags":["社区"]
+},{
+    "name":"Web Platform",
+    "url":"http://www.webplatform.org/",
+    "des":"苹果、Google、微软、Facebook等巨头强势联盟，加入W3C共推维基式开放网站Web Platform。该网站将提供关于HTML5, CSS3以及其他跟Web标准相关的最新优质内容，并提供关于这类技术开发、实践技巧，打造互联网上该类内容的单一、权威发布平台",
+    "tags":["社区"]
+},{
+    "name":"前端开发",
+    "url":"http://www.css88.com/",
+    "des":"专注前端开发，关注用户体验",
+    "tags":["社区"]
+},{
+    "name":"Awesomes - 前端资源库",
+    "url":"https://www.awesomes.cn/",
+    "des":"免费开源的高质量前端库、框架和插件",
+    "tags":["社区"]
+},{
+    "name":"前端观察",
+    "url":"http://www.qianduan.net/",
+    "des":"专注于网站前端设计与前端开发",
+    "tags":["社区"]
+},{
+    "name":"大前端",
+    "url":"http://www.daqianduan.com/",
+    "des":"前端开发为主的综合性博客性媒体，将前端分析的很透彻",
+    "tags":["社区"]
+}
+      ]
+    },
+    {
+      "title": "前端团队",
+      "con": [
+        {
+    "name":"Taobao FED | 淘宝前端团队",
+    "url":"http://taobaofed.org/",
+    "des":"淘宝前端团队（FED）用技术为体验提供无限可能",
+    "tags":["FED","阿里","淘宝","团队"]
+},{
+    "name":"360UXC",
+    "url":"http://uxc.360.cn/",
+    "des":"360UXC用户体验设计中心",
+    "tags":["团队"]
+},{
+    "name":"大搜车前端团队博客",
+    "url":"http://f2e.souche.com/blog/",
+    "des":"相信技术改变世界，这里是我们的点滴思考和总结。",
+    "icon":"http://htmljs.b0.upaiyun.com/uploads/1437909099674-1bb87d41d15fe27b500a4bfcde01bb0e.png",
+    "tags":["团队","博客"]
+},{
+    "name":"360奇舞团",
+    "url":"http://www.75team.com/",
+    "icon":"http://www.75team.com/static/upload/201603/logo.png",
+    "des":"奇虎360公司应用开发部Web前端工程师 + 部分特约嘉宾 组成的一个前端团队",
+    "tags":["团队"]
+},{
+    "name":"新浪UED",
+    "url":"http://ued.sina.com.cn/",
+    "des":"新浪UED | 一个关注用户体验、关注工作流、关注作品质量的有爱团队",
+    "tags":["团队","UED"]
+},{
+    "name":"5173UED",
+    "url":"http://ued.5173.com/",
+    "des":"5173用户体验设计团队",
+    "tags":["团队","UED"]
+},{
+    "name":"HiUED",
+    "url":"http://www.hiued.org/",
+    "des":"用户体验交流会",
+    "tags":["团队","UED"]
+},{
+    "name":"UCD大社区",
+    "url":"http://ucdchina.com/",
+    "des":"以用户为中心的设计",
+    "tags":["团队"]
+},{
+    "name":"CNTV&CCTV UED",
+    "url":"http://uedteam.com/",
+    "des":"央视网/中国网络电视台，指定设计开发团队  [ UE/UX 、UCD、IA、ID、HCI ] ",
+    "tags":["团队","UED"]
+},{
+    "name":"人人FED",
+    "url":"http://fed.renren.com/",
+    "des":"人人网前端开发设计团队",
+    "tags":["团队","FED"]
+},{
+    "name":"天猫UED",
+    "url":"http://ued.tmall.com/",
+    "des":"天猫UED成员微博集合",
+    "tags":["团队","UED"]
+},{
+    "name":"搜狐MUED",
+    "url":"http://mued.sohu.com/",
+    "des":"搜狐无线UED团队",
+    "tags":["团队","UED"]
+},{
+    "name":"搜狐媒体设计中心",
+    "url":"http://mdc.sohu.com/",
+    "des":"搜狐MDC",
+    "tags":["团队"]
+},{
+    "name":"搜狐焦点UED",
+    "url":"http://ued.focus.cn/wordpress/",
+    "des":"搜狐焦点UED团队",
+    "tags":["团队","UED"]
+},{
+    "name":"搜狐畅游VC",
+    "url":"http://vc.changyou.com/",
+    "des":"畅游视觉设计中心",
+    "tags":["团队"]
+},{
+    "name":"搜狗UED",
+    "url":"http://ued.sogou.com/",
+    "des":"搜狗UED团队",
+    "tags":["团队","UED"]
+},{
+    "name":"携程UED",
+    "url":"http://ued.ctrip.com/blog/",
+    "icon":"http://ued.ctrip.com/blog/wp-content/themes/ctripued/img/favicon.ico",
+    "des":"携程网UED团队",
+    "tags":["团队","UED"]
+},{
+    "name":"一淘体验工作平台",
+    "url":"http://ued.alimama.com/",
+    "des":"一淘体验工作平台",
+    "tags":["团队","阿里","一淘","UED"]
+},{
+    "name":"淘宝UED",
+    "url":"http://ued.taobao.org/blog/",
+    "des":"做地球上最好的 UED",
+    "tags":["团队","阿里","淘宝","UED"]
+},{
+    "name":"U一点",
+    "url":"http://www.aliued.cn/",
+    "des":"阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队",
+    "tags":["团队","阿里","UED"]
+},{
+    "name":"美团点评技术团队",
+    "url":"http://tech.meituan.com/",
+    "des":"美团点评技术团队内部技术分享",
+    "tags":["团队"]
+},{
+    "name":"阿里巴巴国际UED团队",
+    "url":"http://www.aliued.com/",
+    "des":"Alibaba  User experience design team",
+    "tags":["团队","阿里","UED"]
+},{
+    "name":"新浪UED",
+    "url":"http://ued.sina.com/",
+    "des":"新浪UED",
+    "tags":["团队","UED"]
+},{
+    "name":"有意思",
+    "url":"http://www.kdued.com/",
+    "des":"金蝶友商网UED",
+    "tags":["团队","UED"]
+},{
+    "name":"爱词霸UED",
+    "url":"http://ued.iciba.com/",
+    "des":"金山爱词霸UED",
+    "tags":["团队"]
+},{
+    "name":"京东设计中心",
+    "url":"http://jdc.jd.com/",
+    "des":"专业，创造力，激情，设计。京东用户体验设计部门，致力于创造更美好的电子商务购物体验。JDC关注于电子商务视觉设计、交互设计、用户研究、前端开发。",
+    "tags":["团队"]
+},{
+    "name":"百度搜索用户体验中心",
+    "url":"http://ued.baidu.com/",
+    "des":"百度搜索用户体验中心 ( Search UX )，由原百度“搜索业务用户体验部”、“商业产品用户体验部”合并而成。围绕百度最核心的搜索业务，为提高数以亿计用户的交互体验和商业伙伴服务品质而努力。并致力于创建搜索引擎的极致用户体验，及用户行为与商业环境的和谐之美。",
+    "tags":["团队","UED"]
+},{
+    "name":"百度MUX",
+    "url":"http://mux.baidu.com/",
+    "des":"百度无线用户体验部",
+    "tags":["团队"]
+},{
+    "name":"百度FEX",
+    "url":"http://fex.baidu.com/",
+    "des":"FEX做最专业的前端，百度前端研发部，百度前端团队Blog",
+    "tags":["团队"]
+},{
+    "name":"网易用户体验设计中心",
+    "url":"http://uedc.163.com/",
+    "des":"网易用户体验设计中心",
+    "tags":["团队"]
+},{
+    "name":"19楼UED",
+    "url":"http://blog.19ued.com/",
+    "des":"19楼UED",
+    "tags":["团队","UED"]
+},{
+    "name":"腾讯CDC",
+    "url":"http://cdc.tencent.com/",
+    "des":"腾讯用户研究与体验设计中心",
+    "tags":["团队","腾讯"]
+},{
+    "name":"腾讯ISD",
+    "url":"http://isd.tencent.com/blog",
+    "des":"QQ空间、QQ会员、QQ秀、QQmusic、腾讯视频、拍拍、QQ商城等产品体验设计",
+    "tags":["团队","腾讯"]
+},{
+    "name":"腾讯ISUX",
+    "url":"http://isux.tencent.com",
+    "des":"腾讯社交用户体验设计部",
+    "tags":["团队","腾讯"]
+},{
+    "name":"腾讯TGideas",
+    "url":"http://tgideas.qq.com/",
+    "des":"腾讯游戏的专业设计团队",
+    "tags":["团队","腾讯"]
+},{
+    "name":"腾讯WSD",
+    "url":"http://mxd.tencent.com/",
+    "des":"腾讯移动互联网设计",
+    "tags":["团队","腾讯"]
+},{
+    "name":"腾讯财付通TID",
+    "url":"http://tid.tenpay.com/",
+    "des":"让生活支付更完美|TID-财付通设计中心",
+    "tags":["团队","腾讯"]
+},{
+    "name":"迅雷CUED",
+    "url":"http://cued.xunlei.com/",
+    "des":"迅雷CUED",
+    "tags":["团队","UED"]
+}
       ]
     },
     {
@@ -26,7 +346,7 @@
         }
       ]
     },
-    {
+     {
       "title": "文档-API",
       "con": [
         {
@@ -38,6 +358,41 @@
             "社区"
           ]
         }
+      ]
+    },
+    {
+      "title": "框架类库",
+      "con": [
+        {
+    "name":"Bootstrap中文网",
+    "url":"http://www.bootcss.com/",
+    "icon":"http://static.bootcss.com/www/assets/ico/favicon.png",
+    "des":"Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
+    "tags":["前端开发框架"]
+},
+      ]
+    },
+    {
+      "title": "视频教程",
+      "con": [
+        {
+    "name":"慕课网",
+    "url":"http://www.imooc.com",
+    "des":"学习编程最简单的免费平台，慕课网提供了丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源。",
+    "tags":["社区"]
+}
+      ]
+    },
+    {
+      "title": "前端大会",
+      "con": [
+        {
+    "name":"国际体验设计协会会议",
+    "url":"http://www.ixdc.org/2016/",
+    "des":"由国际体验设计协会（IXDC）主办的“国际体验设计大会”将于2016年6月30日~7月3日在北京·国家会议中心隆重举行。主题为“重新定义用户体验（REDEFINE THE UX）”。本次大会关注的焦点是反思用户体验，构建用户体验生态圈，学习掌握设计方法在不同行业的应用和创新。通过大会，旨在让新从业者们能了解整个用户体验的范畴和理想，让资深的从业者们能重新反思自己的工作，延伸扩散对用户体验的理解，学习掌握创新设计思维与商业模>式，为今后的工作做一些调整，以及对社会有更正面的帮助。IXDC将组织国际上大量成功企业的精英、领导者、专家共同来探讨和传授经验与技巧，组委会将在为>期四天的大会中，邀请超过150位主讲人，设置多达120个细分主题，通过主题演讲、对话论坛、圆桌会议、工作坊、行业报告、社交宴会等多种形式的交流活动，>带领3000多名从业者探讨。贯穿体验设计、设计管理、设计思维、敏捷体验、用户研究、交互设计、视觉设计、服务设计、产品设计、设计创业、设计教育等内容>模块。",
+    "tags":["会议"]
+}
       ]
     }
+    
 ]}
