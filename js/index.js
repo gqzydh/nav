@@ -20,7 +20,6 @@ $(function(){
 			document.getElementById('category').innerHTML = navHtml;
 			document.getElementById('mainContent').innerHTML = contentHtml;
 
-
 			$(window).scroll(function(){
                 var scrollTop = $(document).scrollTop();
                 var oItem = $("#mainContents").find(".fe");
