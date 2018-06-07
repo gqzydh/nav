@@ -340,9 +340,7 @@
           "url": "https://developer.mozilla.org/zh-CN/",
           "icon": "https://www.xgqq.com/public/static/img/logo.png",
           "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
-          "tags": [
-            "社区"
-          ]
+          "tags": ["社区"]
         }
       ]
     },
@@ -369,7 +367,7 @@
     "icon":"http://static.bootcss.com/www/assets/ico/favicon.png",
     "des":"Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
     "tags":["前端开发框架"]
-},
+}
       ]
     },
     {
