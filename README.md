@@ -5,11 +5,11 @@
 ## 导航分类
 1. 常用资源
 2. 文档-API
-3. 
+3. 框架类库
 开发社区 - developmentCommunity
 前端门户 - frontDoor
 开发平台 - developmentPlatform
-框架类库 - framework
+
 图形动效 - graphicsEffect
 游戏框架 - gameFramework
 前端大会 - frontEndAssembly

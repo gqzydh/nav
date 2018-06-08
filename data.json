@@ -627,6 +627,45 @@
       "title": "框架类库",
       "con": [
         {
+          "name": "Vue.js 中文网",
+          "url": "http://doc.vue-js.com/",
+          "icon": "http://doc.vue-js.com/images/logo.png",
+          "des": "渐进式JavaScript 框架",
+          "tags": [
+            "前端开发框架",
+            "vue中文网"
+          ]
+        },
+        {
+          "name": "Vue.js 官网",
+          "url": "https://cn.vuejs.org/index.html",
+          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "des": "渐进式JavaScript 框架",
+          "tags": [
+            "前端开发框架",
+            "vue官网"
+          ]
+        },
+        {
+          "name": "iView",
+          "url": "https://www.iviewui.com/",
+          "icon": "https://file.iviewui.com/file/favicon.ico",
+          "des": "一套基于 Vue.js 的高质量 UI 组件库",
+          "tags": [
+            "UI 组件库",
+            "vue UI组件库"
+          ]
+        },
+        {
+          "name": "Element",
+          "url": "http://element-cn.eleme.io/#/zh-CN",
+          "icon": "http://element-cn.eleme.io/favicon.ico",
+          "des": "网站快速成型工具, Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+          "tags": [
+            "Vue 桌面端组件库"
+          ]
+        },
+        {
           "name": "Bootstrap中文网",
           "url": "http://www.bootcss.com/",
           "icon": "http://static.bootcss.com/www/assets/ico/favicon.png",
