@@ -9,7 +9,26 @@
           "icon": "https://tinypng.com/images/apple-touch-icon.png",
           "des": "TinyPNG使用智能有损压缩技术来减少 PNG文件的文件大小。",
           "tags": ["工具"]
+        },{
+          "name": "手册网",
+          "url": "http://www.shouce.ren/",
+          "icon": "http://www.shouce.ren/favicon.ico",
+          "des": "提供最新最全的开发手册和教程，内容来源网络并由手册网整理收藏。",
+          "tags": ["工具"]
+        },{
+          "name": "BootCDN",
+          "url": "http://www.bootcdn.cn/",
+          "icon": "http://www.bootcdn.cn/assets/ico/apple-touch-icon-144-precomposed.png",
+          "des": "稳定、快速、免费的前端开源项目 CDN 加速服务",
+          "tags": ["工具", "CDN"]
+        },{
+          "name": "Staticfile CDN",
+          "url": "http://staticfile.org/",
+          "icon": "http://staticfile.org/assets/images/logo.png",
+          "des": "我们的目标是提供这样一个仓库，让它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，我们也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、图片和 swf 等静态文件。",
+          "tags": ["工具", "CDN"]
         }
+
       ]
     },
     {
