@@ -40,7 +40,8 @@
             "工具",
             "CDN"
           ]
-        },{
+        },
+        {
           "name": "浏览器市场份额 - 百度统计",
           "url": "http://tongji.baidu.com/data/browser",
           "des": "百度统计流量研究院",
@@ -78,6 +79,28 @@
             "工具",
             "插件",
             "组件"
+          ]
+        },
+        {
+          "name": "JQuery插件库",
+          "url": "http://www.jq22.com/",
+          "icon": "http://www.jq22.com/favicon.ico",
+          "des": "jQuery,jQuery特效,jQuery ui,jQuery插件,jQuery 教程,css3,网页特效,JS特效",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
+          ]
+        },
+        {
+          "name": "Dowebok",
+          "url": "http://www.dowebok.com/",
+          "icon": "http://www.dowebok.com/wp-content/themes/uehtml/images/logo2.png",
+          "des": "dowebok,代码,素材,模板,jQuery,jQuery插件,jQuery特效,幻灯片,网页特效,js特效,css3",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
           ]
         },
         {
@@ -153,14 +176,16 @@
           "tags": [
             "社区"
           ]
-        },{
+        },
+        {
           "name": "前端网（W3Cfuns）",
           "url": "http://www.w3cfuns.com/",
           "des": "前端网（W3Cfuns），人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台！前端未来，我们打造！",
           "tags": [
             "社区"
           ]
-        },{
+        },
+        {
           "name": "前端网（QDFuns）",
           "url": "https://www.qdfuns.com/",
           "des": "前端网（QDFuns）原 前端网（W3Cfuns）是一个专注于Web前端开发行业的综合性门户网站，致力于推动前端开发在互联网的发展，通过众多专业的服务形式，服务于中国互联网产业，以推动Web标准在中国的发展。自创建以来吸引了众多Web前端开发工程师的加盟，引领着中国互联网的标准化潮流。",
@@ -240,21 +265,40 @@
           "tags": [
             "社区"
           ]
-        },{
+        },
+        {
           "name": "Csstop",
           "url": "http://www.csstop.com/",
           "des": "WEB前端开发家园(CSSTOP.COM)-前端开发爱好者和从业者的理想家园",
           "tags": [
             "社区"
           ]
-        },{
+        },
+        {
           "name": "jobbole 伯乐在线",
           "url": "http://blog.jobbole.com/",
           "des": "做最专业的IT互联网职业社区。",
           "tags": [
             "社区"
           ]
-        },{
+        },
+        {
+          "name": "码农网",
+          "url": "http://www.codeceo.com/",
+          "des": "码农网-程序员编程资料和编程经验分享平台码农网是一个专注程序员编程资料、编程经验、职场面试分享的博客平台,帮助程序员在编程开发中获取第一手的实用资料.",
+          "tags": [
+            "分享平台"
+          ]
+        },
+        {
+          "name": "前端开发博客",
+          "url": "http://caibaojian.com/",
+          "des": "专注于WEB前端开发,分享前端开发教程和前端资讯。",
+          "tags": [
+            "分享平台"
+          ]
+        },
+        {
           "name": "深度开源",
           "url": "http://www.open-open.com/",
           "des": "深度开源(open-open.com)收录最全、最新的开源软件/开源项目,发掘开源价值,发布最新IT资讯,提供开发文档,技术经验分享,问题解决",
@@ -263,7 +307,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "title": "模版引擎",
       "con": [
         {
@@ -633,9 +678,11 @@
           "icon": "https://github.com/fluidicon.png",
           "des": "gitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管.",
           "tags": [
-            "平台", "github"
+            "平台",
+            "github"
           ]
-        },{
+        },
+        {
           "name": "Coding",
           "url": "https://coding.net/",
           "icon": "https://dn-coding-net-production-static.qbox.me/platform/favicon.ico",
@@ -643,7 +690,8 @@
           "tags": [
             "平台"
           ]
-        },{
+        },
+        {
           "name": "码云",
           "url": "https://gitee.com/",
           "icon": "https://assets.gitee.com/assets/favicon-950947d692935bf7e0b1629a69cd89ed.ico",
@@ -651,7 +699,8 @@
           "tags": [
             "平台"
           ]
-        },{
+        },
+        {
           "name": "GitLab",
           "url": "https://about.gitlab.com/",
           "icon": "https://about.gitlab.com/ico/apple-touch-icon-114x114.png",
@@ -659,13 +708,15 @@
           "tags": [
             "平台"
           ]
-        },{
+        },
+        {
           "name": "Git",
           "url": "https://git-scm.com/",
           "icon": "https://git-scm.com/favicon.ico",
           "des": "Git是一个免费的开源 分布式版本控制系统，旨在处理速度和效率从小到大的项目。",
           "tags": [
-            "版本控制","git"
+            "版本控制",
+            "git"
           ]
         }
       ]
@@ -682,7 +733,8 @@
             "工具",
             "NPM"
           ]
-        },{
+        },
+        {
           "name": "Grunt",
           "url": "http://www.gruntjs.net/",
           "icon": "http://www.gruntjs.net/img/favicons/apple-touch-icon.png",
@@ -690,7 +742,8 @@
           "tags": [
             "工具"
           ]
-        },{
+        },
+        {
           "name": "bower",
           "url": "https://bower.io/",
           "icon": "https://bower.io/apple-touch-icon.png",
@@ -698,21 +751,25 @@
           "tags": [
             "工具"
           ]
-        },{
+        },
+        {
           "name": "Less 中文网",
           "url": "http://lesscss.cn/",
           "icon": "http://s.nodejs.cn/less/ico/favicon.ico",
           "des": "Less 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。",
           "tags": [
-            "工具","css"
+            "工具",
+            "css"
           ]
-        },{
+        },
+        {
           "name": "RequireJS 中文网",
           "url": "http://requirejs.cn/",
           "icon": "http://requirejs.cn/favicon.png",
           "des": "RequireJS 是一个JavaScript模块加载器。它非常适合在浏览器中使用，但它也可以用在其他脚本环境，就像 Rhino and Node。使用RequireJS加载模块化脚本将提高代码的加载速度和质量。",
           "tags": [
-            "工具","模块加载"
+            "工具",
+            "模块加载"
           ]
         }
       ]
@@ -781,7 +838,8 @@
           "tags": [
             "Vue 移动端组件库"
           ]
-        },{
+        },
+        {
           "name": "Bootstrap 中文网",
           "url": "http://www.bootcss.com/",
           "icon": "http://static.bootcss.com/www/assets/ico/favicon.png",
@@ -789,7 +847,8 @@
           "tags": [
             "前端开发框架"
           ]
-        },{
+        },
+        {
           "name": "angularjs2 中文网",
           "url": "https://www.angular.cn/",
           "icon": "https://www.angular.cn/assets/images/favicons/favicon-96x96.png",
@@ -797,7 +856,8 @@
           "tags": [
             "前端开发框架"
           ]
-        },{
+        },
+        {
           "name": "Backbone.js",
           "url": "http://backbonejs.org/",
           "icon": "http://backbonejs.org/docs/images/backbone.png",
@@ -805,7 +865,8 @@
           "tags": [
             "前端开发框架"
           ]
-        },{
+        },
+        {
           "name": "Backbone.js API中文文档",
           "url": "http://www.css88.com/doc/backbone/",
           "icon": "http://backbonejs.org/docs/images/backbone.png",
@@ -813,7 +874,8 @@
           "tags": [
             "前端开发框架"
           ]
-        },{
+        },
+        {
           "name": "HTML5 ★ BOILERPLATE",
           "url": "https://html5boilerplate.com/",
           "icon": "https://html5boilerplate.com/icon.png",
@@ -823,7 +885,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "title": "博客",
       "con": [
         {
@@ -836,7 +899,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "title": "文档-API",
       "con": [
         {
@@ -846,6 +910,38 @@
           "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
           "tags": [
             "社区"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "视频学习",
+      "con": [
+        {
+          "name": "慕课网（IMOOC）",
+          "url": "https://www.imooc.com/",
+          "icon": "https://www.imooc.com/static/img/common/touch-icon-ipad.png",
+          "des": "慕课网（IMOOC）是IT技能学习平台。慕课网(IMOOC)提供了丰富的移动端开发、php开发、web前端、android开发以及html5等视频教程资源公开课。并且富有交互性及趣味性，你还可以和朋友一起编程。",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "极客学院",
+          "url": "http://www.jikexueyuan.com/",
+          "icon": "http://e.jikexueyuan.com/headerandfooter/images/logo.png",
+          "des": "极客学院作为中国专业IT职业在线教育平台,拥有海量高清IT职业课程,涵盖30+个技术领域,",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "腾讯课堂",
+          "url": "https://ke.qq.com/",
+          "icon": "https://8.url.cn/edu/edu_modules/edu-ui/img/nohash/favicon.ico",
+          "des": "腾讯课堂-腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师，下设职业培训、公务员考试、托福雅思、考证考级、英语口语、中小学教育等众多在线学习精品课程，打造老师在线上课教学、学生及时互动学习的课堂。腾讯课堂，学习成就梦想！",
+          "tags": [
+            "在线教程"
           ]
         }
       ]
@@ -1128,7 +1224,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "title": "文档-API",
       "con": [
         {
