@@ -3,24 +3,30 @@
 > 收集整理，常用网站，兴趣网站 
 
 ## 导航分类
+
 1. 常用资源
 2. 文档-API
+3. 模版引擎
 3. 框架类库
-开发社区 - developmentCommunity
-前端门户 - frontDoor
-开发平台 - developmentPlatform
+4. 开发社区 
+5. 前端门户 
+6. 开发平台
+7. 构建工具 
+8. WEB框架/服务器
+9. 博客
 
-图形动效 - graphicsEffect
-游戏框架 - gameFramework
-前端大会 - frontEndAssembly
-CSS相关 - css
-Node.js相关 - node
-工具 - IDE
-调试工具 - debuggingTool
-构建工具 - buildTools
-在线工具 - onlineTools
-前端公众号 - frontPublic
-前端大牛 - frontAnd
-书籍推荐 - books
-字体图标 - fontsIcon
-设计资源 - designResources
+
+图形动效
+游戏框架
+前端大会 
+CSS相关 
+Node.js相关 
+工具 IDE
+调试工具 
+
+在线工具 
+前端公众号 
+前端大牛 
+书籍推荐 
+字体图标 
+设计资源 

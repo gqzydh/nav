@@ -40,18 +40,7 @@
             "工具",
             "CDN"
           ]
-        },
-        {
-          "name": "npm ",
-          "url": "https://www.npmjs.com/",
-          "icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
-          "des": "npm是JavaScript和全球最大的软件注册管理机构的软件包管理器。发现可重用代码包 - 并以强大的新方式进行组装。",
-          "tags": [
-            "工具",
-            "NPM"
-          ]
-        },
-        {
+        },{
           "name": "浏览器市场份额 - 百度统计",
           "url": "http://tongji.baidu.com/data/browser",
           "des": "百度统计流量研究院",
@@ -164,11 +153,17 @@
           "tags": [
             "社区"
           ]
-        },
-        {
+        },{
           "name": "前端网（W3Cfuns）",
           "url": "http://www.w3cfuns.com/",
           "des": "前端网（W3Cfuns），人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台！前端未来，我们打造！",
+          "tags": [
+            "社区"
+          ]
+        },{
+          "name": "前端网（QDFuns）",
+          "url": "https://www.qdfuns.com/",
+          "des": "前端网（QDFuns）原 前端网（W3Cfuns）是一个专注于Web前端开发行业的综合性门户网站，致力于推动前端开发在互联网的发展，通过众多专业的服务形式，服务于中国互联网产业，以推动Web标准在中国的发展。自创建以来吸引了众多Web前端开发工程师的加盟，引领着中国互联网的标准化潮流。",
           "tags": [
             "社区"
           ]
@@ -215,9 +210,9 @@
           ]
         },
         {
-          "name": "前端开发",
+          "name": "Web前端开发",
           "url": "http://www.css88.com/",
-          "des": "专注前端开发，关注用户体验",
+          "des": "WEB前端开发 - 专注前端开发，关注用户体验 - 专注前端开发，关注用户体验",
           "tags": [
             "社区"
           ]
@@ -242,6 +237,40 @@
           "name": "大前端",
           "url": "http://www.daqianduan.com/",
           "des": "前端开发为主的综合性博客性媒体，将前端分析的很透彻",
+          "tags": [
+            "社区"
+          ]
+        },{
+          "name": "Csstop",
+          "url": "http://www.csstop.com/",
+          "des": "WEB前端开发家园(CSSTOP.COM)-前端开发爱好者和从业者的理想家园",
+          "tags": [
+            "社区"
+          ]
+        },{
+          "name": "jobbole 伯乐在线",
+          "url": "http://blog.jobbole.com/",
+          "des": "做最专业的IT互联网职业社区。",
+          "tags": [
+            "社区"
+          ]
+        },{
+          "name": "深度开源",
+          "url": "http://www.open-open.com/",
+          "des": "深度开源(open-open.com)收录最全、最新的开源软件/开源项目,发掘开源价值,发布最新IT资讯,提供开发文档,技术经验分享,问题解决",
+          "tags": [
+            "社区"
+          ]
+        }
+      ]
+    },{
+      "title": "模版引擎",
+      "con": [
+        {
+          "name": "art-template",
+          "url": "http://aui.github.io/art-template/zh-cn/",
+          "icon": "http://aui.github.io/art-template/icon/apple-touch-icon-114x114.png",
+          "des": "高性能 JavaScript 模板引擎.",
           "tags": [
             "社区"
           ]
@@ -596,15 +625,94 @@
       ]
     },
     {
-      "title": "文档-API",
+      "title": "开发平台",
       "con": [
         {
-          "name": "Mozilla 开发者网络",
-          "url": "https://developer.mozilla.org/zh-CN/",
-          "icon": "https://www.xgqq.com/public/static/img/logo.png",
-          "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
+          "name": "Github",
+          "url": "https://github.com/",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "gitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管.",
           "tags": [
-            "社区"
+            "平台", "github"
+          ]
+        },{
+          "name": "Coding",
+          "url": "https://coding.net/",
+          "icon": "https://dn-coding-net-production-static.qbox.me/platform/favicon.ico",
+          "des": "CODING 是一个高效的研发流程与管理平台。秉承 “让开发更简单” 的使命，致力于提升软件研发的管理效率。提供了包括需求管理、代码管理、在线编辑器等功能组成的软件开发流水线。",
+          "tags": [
+            "平台"
+          ]
+        },{
+          "name": "码云",
+          "url": "https://gitee.com/",
+          "icon": "https://assets.gitee.com/assets/favicon-950947d692935bf7e0b1629a69cd89ed.ico",
+          "des": "码云专为开发者提供稳定、高效、安全的云端软件开发协作平台无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发",
+          "tags": [
+            "平台"
+          ]
+        },{
+          "name": "GitLab",
+          "url": "https://about.gitlab.com/",
+          "icon": "https://about.gitlab.com/ico/apple-touch-icon-114x114.png",
+          "des": "GitLab 是一个用于仓库管理系统的开源项目,使用Git作为代码管理工具,并在此基础上搭建起来的web服务。",
+          "tags": [
+            "平台"
+          ]
+        },{
+          "name": "Git",
+          "url": "https://git-scm.com/",
+          "icon": "https://git-scm.com/favicon.ico",
+          "des": "Git是一个免费的开源 分布式版本控制系统，旨在处理速度和效率从小到大的项目。",
+          "tags": [
+            "版本控制","git"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "构建工具",
+      "con": [
+        {
+          "name": "npm ",
+          "url": "https://www.npmjs.com/",
+          "icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+          "des": "npm是JavaScript和全球最大的软件注册管理机构的软件包管理器。发现可重用代码包 - 并以强大的新方式进行组装。",
+          "tags": [
+            "工具",
+            "NPM"
+          ]
+        },{
+          "name": "Grunt",
+          "url": "http://www.gruntjs.net/",
+          "icon": "http://www.gruntjs.net/img/favicons/apple-touch-icon.png",
+          "des": "GRUNT JavaScript 世界的构建工具",
+          "tags": [
+            "工具"
+          ]
+        },{
+          "name": "bower",
+          "url": "https://bower.io/",
+          "icon": "https://bower.io/apple-touch-icon.png",
+          "des": "Bower可以管理包含HTML，CSS，JavaScript，字体甚至图像文件的组件。Bower不会连接或缩小代码或执行其他任何操作 - 它只是安装所需软件包的正确版本及其依赖项",
+          "tags": [
+            "工具"
+          ]
+        },{
+          "name": "Less 中文网",
+          "url": "http://lesscss.cn/",
+          "icon": "http://s.nodejs.cn/less/ico/favicon.ico",
+          "des": "Less 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。",
+          "tags": [
+            "工具","css"
+          ]
+        },{
+          "name": "RequireJS 中文网",
+          "url": "http://requirejs.cn/",
+          "icon": "http://requirejs.cn/favicon.png",
+          "des": "RequireJS 是一个JavaScript模块加载器。它非常适合在浏览器中使用，但它也可以用在其他脚本环境，就像 Rhino and Node。使用RequireJS加载模块化脚本将提高代码的加载速度和质量。",
+          "tags": [
+            "工具","模块加载"
           ]
         }
       ]
@@ -666,25 +774,101 @@
           ]
         },
         {
-          "name": "Bootstrap中文网",
+          "name": "Mint UI",
+          "url": "http://mint-ui.github.io/#!/zh-cn",
+          "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjE3NXB4IiBoZWlnaHQ9IjIwMHB4IiB2aWV3Qm94PSIwIDAgMTc1IDIwMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggMy44LjIgKDI5NzUzKSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT7nu7/lj7ZAMXg8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iMjU2LWNvcHkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00MC4wMDAwMDAsIC0yOC4wMDAwMDApIiBmaWxsPSIjMjZhMmZmIj4KICAgICAgICAgICAgPGcgaWQ9Iue7v+WPtiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDAuMDAwMDAwLCAyOC4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnIGlkPSJHcm91cCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4zMDQ2ODgsIDAuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTgzLjcyOTQ4OTUsMTU1LjAxMTg3NiBDODIuMTA5MzUsMTUxLjY2MDE1OSA4MC4wMzY0ODA3LDE0Ny4xMTY3MTIgNzcuOTA3NTkzMiwxNDEuNzU1NTIgQzc1Ljc3ODcwNTcsMTQ0LjUwMzU5NyA3My40NTk2MzU3LDE0Ny4yNjc0MjMgNzAuOTU3NTYsMTUwLjA2MzU0NCBMNjYuOTk0NDI4MywxNTQuNTc1MDk1IEw2MS45NzQ1Mjc5LDE1Mi40NTQzOCBDNDcuMzA0MTYyNSwxNDYuMjY2ODcxIDQuNzYyMjk2MDksMTI1LjU4MzgyOSAwLjM3NzczMjYxNyw5Mi4xNzYzMDM1IEMtMi43NTk0ODA4Niw1Ny4zNzA5MTY2IDE3LjYwNTc5MzIsMzkuMDg2NDg2MSAxMC4yNDI5MDA0LDE5LjczNzcxMTcgQzM5Ljk0MTA3MDUsMjYuODM4NjU0OSA2My4zNTY0NDA4LDM4LjMzOTkxMDQgNzguMzM2NjAwMiw1My4wNTc5MjExIEMxMDEuODM5Mjg3LDIzLjA1NzkzMDkgMTMxLjk0Mjk0LDIxLjg4MjM0OCAxMzkuOTcyNjY4LDAgQzE5NS43MzkzOTMsNzcuOTQyNzE5OSAxODYuODQzMjc5LDE0OS4xODk5OCA5My44ODgzMDM5LDE2MC42NzQ4ODkgQzg2LjAyNTIzNTQsMTc1LjEzOTEyMyA3Ny4yNjQyODIsMTg4LjU3MDExMyA2Ny43NDA4MDQ5LDIwMCBMNTQuNzA2NzI2NiwxOTEuOTA2MjggQzY1Ljg4MjIzOTUsMTgxLjE3NTUyMyA3NS40NDU1ODczLDE2OC42NDk3OTQgODMuNzI5NDg5NSwxNTUuMDExODc2IEw4My43Mjk0ODk1LDE1NS4wMTE4NzYgTDgzLjcyOTQ4OTUsMTU1LjAxMTg3NiBaIE05Mi42OTcxNzE1LDExNi4xNzk3NjQgQzk0LjYzNTI3ODUsMTIxLjM5ODAyMSA5Ni42MjEwMzA3LDEyNS42MjM1IDk3Ljg5OTg3ODMsMTI4LjE4ODc3MSBDMTExLjQzNDUzMSw5OC44MDA1OTQ1IDEyMC42NzE5MzgsNjYuNjYzOTQyMiAxMjguMTE0MzcyLDM3LjA2OTAzNjkgQzEyMC4wOTIwMjEsNDUuNDA4OTU3MiAxMDQuNjM1NDA4LDQ4LjY2NTU4MyA5Mi41MzA1MTI3LDY1LjQzMjkzOTMgQzkxLjc2ODE4NzksNjYuNTc2NjI1OCA5MS4xMDA1NTU5LDY3Ljc2MDE4MjYgOTAuNTA1Mjg4Nyw2OC45Njc0NjI3IEM5OC4wNjY3MzY1LDgyLjk3MDU5NDUgOTkuMjI2MTcxOSw5OC45NDM3Mjk3IDkyLjY5NzE3MTUsMTE2LjE3OTc2NCBMOTIuNjk3MTcxNSwxMTYuMTc5NzY0IEw5Mi42OTcxNzE1LDExNi4xNzk3NjQgWiBNNTIuNjA5NzM1NCwxMjcuNzEyMzE4IEM0Ny40NjI4NDczLDk5LjA2Mjc0MzQgNDAuNTEyODE0MSw3Mi40MzgzOTI2IDI4LjM1MjQ5ODYsNDguODgwMDg2MyBMMjguMzUyNDk4Niw0OC44ODAwODYzIEM0MS4zMzA5NTc2LDY2Ljk5NzY1ODYgNTYuNDA2NDA3Niw5My4yNjQ1Njk5IDY0LjM5Njg2MjUsMTIyLjk5NDIzOCBDOTIuNDM1MDIyNyw4OS43NjE1NDQzIDc0LjA5NTE3MjEsNTQuOTQwMjA5MiAyMi4zODc0NjcsNDIuNTg5MzEyNSBDMjcuMTkyODYzOSw1NS4yMjY0Nzk3IDEzLjg4ODY2MjcsNjcuMTcyMjkxNiAxNS45Mzc4MDksODkuOTEyNjUzNSBDMTguOTU2MDA5LDExMi44NTkzNDYgNDQuNjI3MjU0NSwxMjQuNDg3Nzg4IDUyLjYwOTczNTQsMTI3LjcxMjMxOCBMNTIuNjA5NzM1NCwxMjcuNzEyMzE4IEw1Mi42MDk3MzU0LDEyNy43MTIzMTggWiBNMTA4Ljc4MTM0NiwxMjkuNjkwMjk2IEMxNTkuNzEwNTc5LDEyMC45MjEzNjggMTY1LjQ0NTE1OSw4MC42ODMwMjIzIDEzNS44MTA3ODEsMzUuNzkwMTg5MyBDMTMyLjAyOTg1OCw2Mi45NTQ1ODY1IDEyMi41OTM4OTcsOTcuMTg4MjI5OSAxMDguNzgxMzQ2LDEyOS42OTAyOTYgTDEwOC43ODEzNDYsMTI5LjY5MDI5NiBaIiBpZD0iU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+",
+          "des": "基于 Vue.js 的移动端组件库",
+          "tags": [
+            "Vue 移动端组件库"
+          ]
+        },{
+          "name": "Bootstrap 中文网",
           "url": "http://www.bootcss.com/",
           "icon": "http://static.bootcss.com/www/assets/ico/favicon.png",
           "des": "Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
           "tags": [
             "前端开发框架"
           ]
+        },{
+          "name": "angularjs2 中文网",
+          "url": "https://www.angular.cn/",
+          "icon": "https://www.angular.cn/assets/images/favicons/favicon-96x96.png",
+          "des": "一套框架，多种平台移动端 & 桌面端",
+          "tags": [
+            "前端开发框架"
+          ]
+        },{
+          "name": "Backbone.js",
+          "url": "http://backbonejs.org/",
+          "icon": "http://backbonejs.org/docs/images/backbone.png",
+          "des": "Backbone.js的提供给结构的Web应用程序的模型与键值绑定和自定义事件， 收集与枚举功能丰富的API， 观点与陈述事件处理，而这一切在一个RESTful JSON接口连接到现有的API。",
+          "tags": [
+            "前端开发框架"
+          ]
+        },{
+          "name": "Backbone.js API中文文档",
+          "url": "http://www.css88.com/doc/backbone/",
+          "icon": "http://backbonejs.org/docs/images/backbone.png",
+          "des": "Backbone.js为复杂WEB应用程序提供模型(models)、集合(collections)、视图(views)的结构。其中模型用于绑定键值数据和自定义事件；集合附有可枚举函数的丰富API； 视图可以声明事件处理函数，并通过RESRful JSON接口连接到应用程序。",
+          "tags": [
+            "前端开发框架"
+          ]
+        },{
+          "name": "HTML5 ★ BOILERPLATE",
+          "url": "https://html5boilerplate.com/",
+          "icon": "https://html5boilerplate.com/icon.png",
+          "des": "网络最流行的前端模板，HTML5 Boilerplate可帮助您构建快速，健壮且适应性强的网络应用或网站。",
+          "tags": [
+            "前端模版"
+          ]
+        }
+      ]
+    },{
+      "title": "博客",
+      "con": [
+        {
+          "name": "博客园",
+          "url": "https://www.cnblogs.com/",
+          "icon": "https://common.cnblogs.com/favicon.ico",
+          "des": "博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。",
+          "tags": [
+            "博客"
+          ]
+        }
+      ]
+    },{
+      "title": "文档-API",
+      "con": [
+        {
+          "name": "Mozilla 开发者网络",
+          "url": "https://developer.mozilla.org/zh-CN/",
+          "icon": "https://www.xgqq.com/public/static/img/logo.png",
+          "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
+          "tags": [
+            "社区"
+          ]
         }
       ]
     },
     {
-      "title": "视频教程",
+      "title": "WEB框架/服务器",
       "con": [
         {
-          "name": "慕课网",
-          "url": "http://www.imooc.com",
-          "des": "学习编程最简单的免费平台，慕课网提供了丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源。",
+          "name": "Node",
+          "url": "https://nodejs.org/en/",
+          "icon": "https://nodejs.org/static/apple-touch-icon.png",
+          "des": "Node.js®是在Chrome的V8 JavaScript引擎上构建的JavaScript运行时。",
           "tags": [
-            "社区"
+            "Node"
+          ]
+        },
+        {
+          "name": "Expressjs",
+          "url": "http://expressjs.com/",
+          "icon": "http://expressjs.com/images/favicon.png",
+          "des": "Node.js的快速，非选择性，简约的Web框架.",
+          "tags": [
+            "Node"
           ]
         }
       ]
@@ -941,6 +1125,19 @@
           "des": "IconPng图标搜索引擎",
           "tags": [
             "图标"
+          ]
+        }
+      ]
+    },{
+      "title": "文档-API",
+      "con": [
+        {
+          "name": "Mozilla 开发者网络",
+          "url": "https://developer.mozilla.org/zh-CN/",
+          "icon": "https://www.xgqq.com/public/static/img/logo.png",
+          "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
+          "tags": [
+            "社区"
           ]
         }
       ]
