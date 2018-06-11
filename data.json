@@ -167,6 +167,22 @@
           "tags": [
             "社区"
           ]
+        },{
+          "name": "W3Cschool",
+          "url": "http://www.w3school.com.cn/",
+          "icon": "http://www.w3school.com.cn/ui2017/logo-96.png",
+          "des": "W3School 是因特网上最大的 WEB 开发者资源，其中包括全面的教程、完善的参考手册以及庞大的代码库。",
+          "tags": [
+            "社区","W3C"
+          ]
+        },{
+          "name": "W3Cschool",
+          "url": "https://www.w3cschool.cn/",
+          "icon": "https://www.w3cschool.cn/statics/images/favicon.ico",
+          "des": "w3cschool是一个专业的编程入门学习及技术文档查询网站，提供包括HTML,CSS,Javascript,jQuery,C,PHP,Java,Python,Sql,Mysql等编程语言和开源技术的在线教程及使用手册，是类国外w3schools的W3C学习社区及菜鸟编程平台。",
+          "tags": [
+            "社区"
+          ]
         },
         {
           "name": "w3cplus",
@@ -294,6 +310,15 @@
           "name": "前端开发博客",
           "url": "http://caibaojian.com/",
           "des": "专注于WEB前端开发,分享前端开发教程和前端资讯。",
+          "tags": [
+            "分享平台"
+          ]
+        },
+        {
+          "name": "Aotu.io「凹凸实验室」",
+          "url": "https://aotu.io/index.html",
+           "icon": "https://aotu.io/img/favicon-96x96.png",
+          "des": "面向多终端技术体系，致力于构建沉淀与分享包括但不限于交互、页面制作技巧、前端开发、原生APP开发等方面的专业知识及案例",
           "tags": [
             "分享平台"
           ]
@@ -883,6 +908,14 @@
           "tags": [
             "前端模版"
           ]
+        },
+        {
+          "name": "Layui 模块化前端框架",
+          "url": "http://www.layui.com/",
+          "des": "layui,ui,ui框架,前端框架,JS组件。",
+          "tags": [
+            "前端模版"
+          ]
         }
       ]
     },
@@ -894,6 +927,22 @@
           "url": "https://www.cnblogs.com/",
           "icon": "https://common.cnblogs.com/favicon.ico",
           "des": "博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。",
+          "tags": [
+            "博客"
+          ]
+        },{
+          "name": "SCDN 博客",
+          "url": "https://blog.csdn.net/gqzydh",
+          "icon": "https://csdnimg.cn/public/favicon.ico",
+          "des": "CSDN-专业IT技术社区",
+          "tags": [
+            "博客"
+          ]
+        },{
+          "name": "Hexo",
+          "url": "https://hexo.io/",
+          "icon": "https://hexo.io/icon/apple-touch-icon-57x57.png",
+          "des": "一个快速，简单和功能强大的博客框架",
           "tags": [
             "博客"
           ]
@@ -1235,6 +1284,19 @@
           "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
           "tags": [
             "社区"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "签到任务",
+      "con": [
+        {
+          "name": "JQuery插件库",
+          "url": "http://www.jq22.com/myhome",
+          "des": "jQuery,jQuery特效,jQuery ui,jQuery插件",
+          "tags": [
+            "签到"
           ]
         }
       ]
