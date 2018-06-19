@@ -13,15 +13,6 @@
           ]
         },
         {
-          "name": "手册网",
-          "url": "http://www.shouce.ren/",
-          "icon": "http://www.shouce.ren/favicon.ico",
-          "des": "提供最新最全的开发手册和教程，内容来源网络并由手册网整理收藏。",
-          "tags": [
-            "工具"
-          ]
-        },
-        {
           "name": "BootCDN",
           "url": "http://www.bootcdn.cn/",
           "icon": "http://www.bootcdn.cn/assets/ico/apple-touch-icon-144-precomposed.png",
@@ -29,6 +20,15 @@
           "tags": [
             "工具",
             "CDN"
+          ]
+        },
+        {
+          "name": "手册网",
+          "url": "http://www.shouce.ren/",
+          "icon": "http://www.shouce.ren/favicon.ico",
+          "des": "提供最新最全的开发手册和教程，内容来源网络并由手册网整理收藏。",
+          "tags": [
+            "工具"
           ]
         },
         {
@@ -48,6 +48,39 @@
           "tags": [
             "工具",
             "统计"
+          ]
+        },
+        {
+          "name": "JQuery插件库",
+          "url": "http://www.jq22.com/",
+          "icon": "http://www.jq22.com/favicon.ico",
+          "des": "jQuery,jQuery特效,jQuery ui,jQuery插件,jQuery 教程,css3,网页特效,JS特效",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
+          ]
+        },
+        {
+          "name": "JQuery之家",
+          "url": "http://www.htmleaf.com/",
+          "icon": "http://www.htmleaf.com/templets/default/images/ico/apple-touch-icon-72.png",
+          "des": "jQuery之家致力于搜集和整理各种jQuery插件，jQuery特效，jquery ui，jQuery 教程，JS特效，网页特效，以及各种html5，css3动画和效果，为前端开发者提供最全面的网页开发素材。",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
+          ]
+        },
+        {
+          "name": "Dowebok",
+          "url": "http://www.dowebok.com/",
+          "icon": "http://www.dowebok.com/wp-content/themes/uehtml/images/logo2.png",
+          "des": "dowebok,代码,素材,模板,jQuery,jQuery插件,jQuery特效,幻灯片,网页特效,js特效,css3",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
           ]
         },
         {
@@ -79,28 +112,6 @@
             "工具",
             "插件",
             "组件"
-          ]
-        },
-        {
-          "name": "JQuery插件库",
-          "url": "http://www.jq22.com/",
-          "icon": "http://www.jq22.com/favicon.ico",
-          "des": "jQuery,jQuery特效,jQuery ui,jQuery插件,jQuery 教程,css3,网页特效,JS特效",
-          "tags": [
-            "实例",
-            "插件",
-            "特效"
-          ]
-        },
-        {
-          "name": "Dowebok",
-          "url": "http://www.dowebok.com/",
-          "icon": "http://www.dowebok.com/wp-content/themes/uehtml/images/logo2.png",
-          "des": "dowebok,代码,素材,模板,jQuery,jQuery插件,jQuery特效,幻灯片,网页特效,js特效,css3",
-          "tags": [
-            "实例",
-            "插件",
-            "特效"
           ]
         },
         {
@@ -167,15 +178,18 @@
           "tags": [
             "社区"
           ]
-        },{
+        },
+        {
           "name": "W3Cschool",
           "url": "http://www.w3school.com.cn/",
           "icon": "http://www.w3school.com.cn/ui2017/logo-96.png",
           "des": "W3School 是因特网上最大的 WEB 开发者资源，其中包括全面的教程、完善的参考手册以及庞大的代码库。",
           "tags": [
-            "社区","W3C"
+            "社区",
+            "W3C"
           ]
-        },{
+        },
+        {
           "name": "W3Cschool",
           "url": "https://www.w3cschool.cn/",
           "icon": "https://www.w3cschool.cn/statics/images/favicon.ico",
@@ -317,7 +331,7 @@
         {
           "name": "Aotu.io「凹凸实验室」",
           "url": "https://aotu.io/index.html",
-           "icon": "https://aotu.io/img/favicon-96x96.png",
+          "icon": "https://aotu.io/img/favicon-96x96.png",
           "des": "面向多终端技术体系，致力于构建沉淀与分享包括但不限于交互、页面制作技巧、前端开发、原生APP开发等方面的专业知识及案例",
           "tags": [
             "分享平台"
@@ -630,6 +644,15 @@
           ]
         },
         {
+          "name": "腾讯全端AlloyTeam",
+          "url": "http://www.alloyteam.com/",
+          "des": "腾讯全端AlloyTeam团队",
+          "tags": [
+            "团队",
+            "腾讯"
+          ]
+        },
+        {
           "name": "腾讯CDC",
           "url": "http://cdc.tencent.com/",
           "des": "腾讯用户研究与体验设计中心",
@@ -930,15 +953,26 @@
           "tags": [
             "博客"
           ]
-        },{
-          "name": "SCDN 博客",
+        },
+        {
+          "name": "CSDN 博客",
           "url": "https://blog.csdn.net/gqzydh",
           "icon": "https://csdnimg.cn/public/favicon.ico",
           "des": "CSDN-专业IT技术社区",
           "tags": [
             "博客"
           ]
-        },{
+        },
+        {
+          "name": "前端乱炖",
+          "url": "http://www.html-js.com/",
+          "icon": "http://htmljs.b0.upaiyun.com//images/icon.png",
+          "des": "前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。html,js,css,nodejs,前端开发,前端招聘,jquery,qianduan",
+          "tags": [
+            "博客"
+          ]
+        },
+        {
           "name": "Hexo",
           "url": "https://hexo.io/",
           "icon": "https://hexo.io/icon/apple-touch-icon-57x57.png",
@@ -989,6 +1023,33 @@
           "url": "https://ke.qq.com/",
           "icon": "https://8.url.cn/edu/edu_modules/edu-ui/img/nohash/favicon.ico",
           "des": "腾讯课堂-腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师，下设职业培训、公务员考试、托福雅思、考证考级、英语口语、中小学教育等众多在线学习精品课程，打造老师在线上课教学、学生及时互动学习的课堂。腾讯课堂，学习成就梦想！",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "极客标签",
+          "url": "http://www.gbtags.com/gb/index.htm",
+          "icon": "http://www.gbtags.com/gb/networks/themes/img/gbin1.ico",
+          "des": "极客标签是一个基于web的在线极客编程知识分享&学习平台，能够帮助你快速高效地学习代码编程并方便的在线实时分享编程技巧和心得",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "mooc学院",
+          "url": "https://mooc.guokr.com/",
+          "icon": "https://sslstatic.guokr.com/apps/academy/images/290a14e8.logo.png",
+          "des": "MOOC学院 集合Coursera，edX，udacity,学堂在线等平台所有课程的点评讨论社区",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "优才学院",
+          "url": "http://www.ucai.cn/index",
+          "icon": "http://www.ucai.cn/public/themes/ucaistyle/ucai.ico",
+          "des": "UCAI是国内唯一一家专注于多方向全栈工程师培养的互联网职业技能在线学习平台，致力于打造中国IT职业教育O2O创新品牌。",
           "tags": [
             "在线教程"
           ]
@@ -1284,6 +1345,20 @@
           "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
           "tags": [
             "社区"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "设计资源",
+      "con": [
+        {
+          "name": "ZCOOL 站酷",
+          "url": "https://www.zcool.com.cn/",
+          "icon": "https://static.zcool.cn/git_z/z/site/favicon.ico",
+          "des": "站酷 (ZCOOL)，中国人气设计师互动平台。深耕设计领域十年，站酷聚集了470万优秀设计师、摄影师、插画师、艺术家、创意人，设计创意群体中具有较高的影响力与号召力。",
+          "tags": [
+            "设计"
           ]
         }
       ]
