@@ -1364,6 +1364,20 @@
       ]
     },
     {
+      "title": "干货食品",
+      "con": [
+        {
+          "name": "美食天下",
+          "url": "https://www.meishichina.com",
+          "icon": "https://static.meishichina.com/v6/img/lib/f.ico",
+          "des": "美食天下是最大的中文美食网站与厨艺交流社区，拥有海量的优质原创美食菜谱，聚集超千万美食家。我所有的朋友都是吃货，欢迎您加入！",
+          "tags": [
+            "美食"
+          ]
+        }
+      ]
+    },
+    {
       "title": "签到任务",
       "con": [
         {
