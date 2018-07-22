@@ -1028,6 +1028,14 @@
           "tags": [
             "在线教程"
           ]
+        },{
+          "name": "宁浩网",
+          "url": "https://ninghao.net/",
+          "icon": "https://ninghao.net/files/asset/apple-touch-icon/72x72.png",
+          "des": "宁皓网，在线学会，视频教程， WordPress，Drupal，Laravel 还有 Bootstrap ",
+          "tags": [
+            "视频教程"
+          ]
         },
         {
           "name": "腾讯课堂",
@@ -1045,14 +1053,6 @@
           "des": "极客标签是一个基于web的在线极客编程知识分享&学习平台，能够帮助你快速高效地学习代码编程并方便的在线实时分享编程技巧和心得",
           "tags": [
             "在线教程"
-          ]
-        },{
-          "name": "宁浩网",
-          "url": "https://ninghao.net/",
-          "icon": "https://ninghao.net/files/asset/apple-touch-icon/72x72.png",
-          "des": "宁皓网，在线学会，视频教程， WordPress，Drupal，Laravel 还有 Bootstrap ",
-          "tags": [
-            "视频教程"
           ]
         },
         {
