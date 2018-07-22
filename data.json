@@ -1046,6 +1046,14 @@
           "tags": [
             "在线教程"
           ]
+        },{
+          "name": "宁浩网",
+          "url": "https://ninghao.net/",
+          "icon": "https://ninghao.net/files/asset/apple-touch-icon/72x72.png",
+          "des": "宁皓网，在线学会，视频教程， WordPress，Drupal，Laravel 还有 Bootstrap ",
+          "tags": [
+            "视频教程"
+          ]
         },
         {
           "name": "mooc学院",
