@@ -823,7 +823,7 @@
       ]
     },
     {
-      "title": "前端-基础",
+      "title": "文档-API",
       "con": [
         {
           "name": "菜鸟教程",
@@ -839,6 +839,14 @@
           "des": "全球最大的中文 Web 技术教程。",
           "tags": [
             "基础知识"
+          ]
+        },{
+          "name": "Mozilla 开发者网络",
+          "url": "https://developer.mozilla.org/zh-CN/",
+          "icon": "https://www.xgqq.com/public/static/img/logo.png",
+          "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
+          "tags": [
+            "社区"
           ]
         }
       ]
@@ -1027,6 +1035,15 @@
           "des": "极客学院作为中国专业IT职业在线教育平台,拥有海量高清IT职业课程,涵盖30+个技术领域,",
           "tags": [
             "在线教程"
+          ]
+        },
+        {
+          "name": "宁浩网",
+          "url": "https://ninghao.net/",
+          "icon": "https://ninghao.net/files/asset/apple-touch-icon/72x72.png",
+          "des": "宁皓网，在线学会，视频教程， WordPress，Drupal，Laravel 还有 Bootstrap ",
+          "tags": [
+            "视频教程"
           ]
         },
         {
@@ -1347,20 +1364,6 @@
       ]
     },
     {
-      "title": "文档-API",
-      "con": [
-        {
-          "name": "Mozilla 开发者网络",
-          "url": "https://developer.mozilla.org/zh-CN/",
-          "icon": "https://www.xgqq.com/public/static/img/logo.png",
-          "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
-          "tags": [
-            "社区"
-          ]
-        }
-      ]
-    },
-    {
       "title": "设计资源",
       "con": [
         {
@@ -1392,6 +1395,52 @@
           "des": "中国干货-中国干货网提供中国干货资讯，中国干货市场，中国干货秒杀，中国干货专区，中国干货土特产，中国干货干果，中国干货代理，中国干货招商，中国干货,robo roboo roobo rooboo ruboo rubao",
           "tags": [
             "干货"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "GQ",
+      "con": [
+        {
+          "name": "前端网（QDFuns）",
+          "url": "https://www.qdfuns.com/u",
+          "icon": "https://cdn.static.qdfuns.com/images/logos/logo256.png",
+          "des": "代码笔记，可以运行代码",
+          "tags": [
+            "前端网"
+          ]
+        },{
+          "name": "CSDN 博客",
+          "url": "https://blog.csdn.net/gqzydh",
+          "icon": "https://csdnimg.cn/public/favicon.ico",
+          "des": "Web前端技术博客,CSDN-专业IT技术社区",
+          "tags": [
+            "博客"
+          ]
+        },{
+          "name": "收趣",
+          "url": "http://shouqu.me/my.html",
+          "icon": "http://shouqu.me/favicon.ico",
+          "des": "我的书签 | 收趣 - 我的云端收藏夹,稍后阅读神器",
+          "tags": [
+            "书签"
+          ]
+        },{
+          "name": "CTOLib码库",
+          "url": "https://www.ctolib.com/",
+          "icon": "https://www.ctolib.com/static/favicon.ico",
+          "des": "CTOLib码库分类收集GitHub上的开源项目，并且每天根据相关的数据计算每个项目的流行度和活跃度，方便开发者快速找到想要的免费开源项目。",
+          "tags": [
+            "码库"
+          ]
+        },{
+          "name": "GQ博客",
+          "url": "http://gq1986.com/",
+          "icon": "http://gq1986.com/images/favicon_16X16.ico",
+          "des": "个人博客",
+          "tags": [
+            "博客"
           ]
         }
       ]
