@@ -66,6 +66,13 @@ a { text-decoration: none }
 .container .main .fe .logo a { display: inline-block; width: 100% }
 .container .main .fe .logo a:active, .container .main .fe .logo a:focus, .container .main .fe .logo a:hover, .container .main .fe .logo a:visited { background: inherit }
 .container .main .fe .logo img { width: 40px; height: 40px; border-radius: 50%; vertical-align: middle }
+
+.container .main .fe_px{ margin: -10px 36px 20px 20px; }
+.container .main .fe_px .px_cont{padding:12px 22px 22px 22px;}
+.container .main .fe_px .px_textarea{ width: 260px; height: 18px; padding: 10px; font-size: 15px; float: left;}
+.container .main .fe_px .px_cont input{ font-size: 16px; width: 96px; margin: 7px 10px; float: left; background-color: yellowgreen;  border: 0;
+ border-radius: 5px;}
+
 .container .footer { width: 100%; bottom: 0; line-height: 45px; background: #fff; box-shadow: 0 0 1rem rgba(0, 0, 0, .2) }
 .container .footer .recommend, .container .footer p { display: none }
 .container .footer .copyright { margin-left: 30px; color: #949494; font-size: 12px }

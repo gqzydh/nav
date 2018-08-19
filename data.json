@@ -23,15 +23,6 @@
           ]
         },
         {
-          "name": "手册网",
-          "url": "http://www.shouce.ren/",
-          "icon": "http://www.shouce.ren/favicon.ico",
-          "des": "提供最新最全的开发手册和教程，内容来源网络并由手册网整理收藏。",
-          "tags": [
-            "工具"
-          ]
-        },
-        {
           "name": "Staticfile CDN",
           "url": "http://staticfile.org/",
           "icon": "http://staticfile.org/assets/images/logo.png",
@@ -839,6 +830,30 @@
           "des": "全球最大的中文 Web 技术教程。",
           "tags": [
             "基础知识"
+          ]
+        },{
+          "name": "手册网",
+          "url": "http://www.shouce.ren/",
+          "icon": "http://www.shouce.ren/favicon.ico",
+          "des": "提供最新最全的开发手册和教程，内容来源网络并由手册网整理收藏。",
+          "tags": [
+            "手册"
+          ]
+        },{
+          "name": "前端开发参考手册",
+          "url": "http://www.46design.com/Item/list.asp?id=1691",
+          "icon": "http://www.46design.com/Template/v4/images/logo1.png",
+          "des": "46设计网是一个网页UI设计师必备的设计师导航网站，为网页UI设计师提供设计思路、设计方法、设计技巧和必备的设计师网址导航。记住46design.com轻松搞设计！",
+          "tags": [
+            "设计师导航网站"
+          ]
+        },{
+          "name": "jQuery 中文手册",
+          "url": "http://hemin.cn/jq/index.html",
+          "icon": "http://www.shouce.ren/favicon.ico",
+          "des": "jquery 在线手册|jQuery API 中文手册|jQuery 速查表|jQuery 参考手册|jQuery CHM",
+          "tags": [
+            "手册"
           ]
         },{
           "name": "Mozilla 开发者网络",
