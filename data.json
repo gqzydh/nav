@@ -1423,6 +1423,28 @@
       ]
     },
     {
+      "title": "童装",
+      "con": [
+        {
+          "name": "韩韩良品只做性价比【女装】",
+          "url": "https://hhlp99.taobao.com",
+          "icon": "https://img.alicdn.com/tps/i3/T1OjaVFl4dXXa.JOZB-114-114.png",
+          "des": "淘宝, 店铺, 旺铺, 韩韩良品只做性价比, 女装",
+          "tags": [
+            "童装"
+          ]
+        },{
+          "name": "淘宝亲宝贝",
+          "url": "https://qbb.taobao.com/",
+          "icon": "https://img.alicdn.com/tps/TB18W5ANpXXXXaLXXXXXXXXXXXX-430-180.png",
+          "des": "亲宝贝",
+          "tags": [
+            "亲宝贝"
+          ]
+        }
+      ]
+    },
+    {
       "title": "GQ",
       "con": [
         {
