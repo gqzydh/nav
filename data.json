@@ -33,15 +33,6 @@
           ]
         },
         {
-          "name": "浏览器市场份额 - 百度统计",
-          "url": "http://tongji.baidu.com/data/browser",
-          "des": "百度统计流量研究院",
-          "tags": [
-            "工具",
-            "统计"
-          ]
-        },
-        {
           "name": "JQuery插件库",
           "url": "http://www.jq22.com/",
           "icon": "http://www.jq22.com/favicon.ico",
@@ -103,15 +94,6 @@
             "工具",
             "插件",
             "组件"
-          ]
-        },
-        {
-          "name": "Can I use",
-          "url": "http://caniuse.com/",
-          "des": "这是一个极好的网站，查询你使用的属性方法在浏览器中的兼容。",
-          "tags": [
-            "工具",
-            "caniuse"
           ]
         }
       ]
