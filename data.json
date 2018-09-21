@@ -1067,12 +1067,13 @@
           ]
         },
         {
-          "name": "宁浩网",
-          "url": "https://ninghao.net/",
-          "icon": "https://ninghao.net/files/asset/apple-touch-icon/72x72.png",
+          "name": "Scrimba",
+          "url": "https://scrimba.com/",
+          "icon": "https://scrimba.com/static/cached/favico1/favicon-32x32.png",
           "des": "宁皓网，在线学会，视频教程， WordPress，Drupal，Laravel 还有 Bootstrap ",
           "tags": [
-            "视频教程"
+            "编码屏幕播放教程 vue react javascript css js"
+            "交互式编程教学网站，可以直播整个编码过程，可以实时看到运行结果，可以回放整个录像，但和传统的视频不一样，它的结果是音频+编码回放方式的，可以随时中断运行代码"
           ]
         },
         {
