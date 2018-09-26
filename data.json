@@ -799,6 +799,14 @@
       "title": "文档-API",
       "con": [
         {
+          "name": "腾讯云-开发者手册",
+          "url": "https://cloud.tencent.com/developer/devdocs",
+          "icon": "https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/portal/css/img/nav/logo-bg-color.svg",
+          "des": "开发者手册是由云+社区开发者共同维护的一个提供中文化的技术文档与开发工具的知识平台",
+          "tags": [
+            "开发手册"
+          ]
+        },{
           "name": "菜鸟教程",
           "url": "http://www.runoob.com/",
           "icon": "http://static.runoob.com/images/favicon.ico",
