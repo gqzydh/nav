@@ -927,6 +927,14 @@
             "React Native"
           ]
         },{
+          "name": "React.js 中文网",
+          "url": "https://react.docschina.org/",
+          "icon": "https://react.docschina.org/favicon.ico",
+          "des": "React.js用于构建用户界面的 JavaScript 库",
+          "tags": [
+            "React",
+          ]
+        },{
           "name": "React 官网",
           "url": "https://reactjs.org/",
           "icon": "https://reactnative.cn/img/favicon.png",
