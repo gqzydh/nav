@@ -482,8 +482,8 @@
         },
         {
           "name": "携程UED",
-          "url": "http://ued.ctrip.com/blog/",
-          "icon": "http://ued.ctrip.com/blog/wp-content/themes/ctripued/img/favicon.ico",
+          "url": "http://ued.ctrip.com",
+          "icon": "http://ued.ctrip.com/wp-content/themes/ctripued/img/logo.png",
           "des": "携程网UED团队",
           "tags": [
             "团队",
@@ -932,7 +932,7 @@
           "icon": "https://react.docschina.org/favicon.ico",
           "des": "React.js用于构建用户界面的 JavaScript 库",
           "tags": [
-            "React",
+            "React"
           ]
         },{
           "name": "React 官网",
