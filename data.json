@@ -997,7 +997,7 @@
         {
           "name": "Layui 模块化前端框架",
           "url": "http://www.layui.com/",
-          "icon": "/static/images/layui.png",
+          "icon": "./static/images/layui.png",
           "des": "layui,ui,ui框架,前端框架,JS组件。",
           "tags": [
             "前端模版"
