@@ -1,104 +1,6 @@
 {
   "navList": [
     {
-      "title": "常用资源",
-      "con": [
-        {
-          "name": "TinyPNG 图片在线压缩",
-          "url": "https://tinypng.com/",
-          "icon": "https://tinypng.com/images/apple-touch-icon.png",
-          "des": "TinyPNG使用智能有损压缩技术来减少 PNG文件的文件大小。",
-          "tags": [
-            "工具"
-          ]
-        },
-        {
-          "name": "BootCDN",
-          "url": "http://www.bootcdn.cn/",
-          "icon": "http://www.bootcdn.cn/assets/ico/apple-touch-icon-144-precomposed.png",
-          "des": "稳定、快速、免费的前端开源项目 CDN 加速服务",
-          "tags": [
-            "工具",
-            "CDN"
-          ]
-        },
-        {
-          "name": "Staticfile CDN",
-          "url": "http://staticfile.org/",
-          "icon": "http://staticfile.org/assets/images/logo.png",
-          "des": "我们的目标是提供这样一个仓库，让它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。同时，我们也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、图片和 swf 等静态文件。",
-          "tags": [
-            "工具",
-            "CDN"
-          ]
-        },
-        {
-          "name": "JQuery插件库",
-          "url": "http://www.jq22.com/",
-          "icon": "http://www.jq22.com/favicon.ico",
-          "des": "jQuery,jQuery特效,jQuery ui,jQuery插件,jQuery 教程,css3,网页特效,JS特效",
-          "tags": [
-            "实例",
-            "插件",
-            "特效"
-          ]
-        },
-        {
-          "name": "JQuery之家",
-          "url": "http://www.htmleaf.com/",
-          "icon": "http://www.htmleaf.com/templets/default/images/ico/apple-touch-icon-72.png",
-          "des": "jQuery之家致力于搜集和整理各种jQuery插件，jQuery特效，jquery ui，jQuery 教程，JS特效，网页特效，以及各种html5，css3动画和效果，为前端开发者提供最全面的网页开发素材。",
-          "tags": [
-            "实例",
-            "插件",
-            "特效"
-          ]
-        },
-        {
-          "name": "Dowebok",
-          "url": "http://www.dowebok.com/",
-          "icon": "http://www.dowebok.com/wp-content/themes/uehtml/images/logo2.png",
-          "des": "dowebok,代码,素材,模板,jQuery,jQuery插件,jQuery特效,幻灯片,网页特效,js特效,css3",
-          "tags": [
-            "实例",
-            "插件",
-            "特效"
-          ]
-        },
-        {
-          "name": "CodePen代码笔",
-          "url": "http://codepen.io/",
-          "des": "前端工程师必备的技术网站，直接在显示编辑代码片段并分享。codepen！寻找交互灵感的圣地",
-          "tags": [
-            "工具",
-            "互交设计",
-            "在线编辑器"
-          ]
-        },
-        {
-          "name": "RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码",
-          "url": "http://runjs.cn/",
-          "des": "RunJS,在线编写、展示html、js、css代码，拥有实时预览、分享、Fork、代码高亮、自动完成等多项特性，提供文件上传、多种登录方式。",
-          "tags": [
-            "社区",
-            "工具",
-            "互交设计",
-            "在线编辑器"
-          ]
-        },
-        {
-          "name": "plainJS - The Vanilla JavaScript Repository",
-          "url": "https://plainjs.com/",
-          "des": "该仓库都是用原生js写的插件和组件，很实用",
-          "tags": [
-            "工具",
-            "插件",
-            "组件"
-          ]
-        }
-      ]
-    },
-    {
       "title": "开发社区",
       "con": [
         {
@@ -997,7 +899,7 @@
         {
           "name": "Layui 模块化前端框架",
           "url": "http://www.layui.com/",
-          "icon": "https://gqzydh.github.io/nav/static/images/layui.png",
+          "icon": "/nav/static/images/layui.png",
           "des": "layui,ui,ui框架,前端框架,JS组件。",
           "tags": [
             "前端框架"
@@ -1010,6 +912,55 @@
           "des": "MUI 最接近原生APP体验的高性能前端框架",
           "tags": [
             "前端框架"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "组件插件",
+      "con": [
+        {
+          "name": "JQuery插件库",
+          "url": "http://www.jq22.com/",
+          "icon": "http://www.jq22.com/favicon.ico",
+          "des": "jQuery,jQuery特效,jQuery ui,jQuery插件,jQuery 教程,css3,网页特效,JS特效",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
+          ]
+        },
+        {
+          "name": "JQuery之家",
+          "url": "http://www.htmleaf.com/",
+          "icon": "http://www.htmleaf.com/templets/default/images/ico/apple-touch-icon-72.png",
+          "des": "jQuery之家致力于搜集和整理各种jQuery插件，jQuery特效，jquery ui，jQuery 教程，JS特效，网页特效，以及各种html5，css3动画和效果，为前端开发者提供最全面的网页开发素材。",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
+          ]
+        },
+        {
+          "name": "Dowebok",
+          "url": "http://www.dowebok.com/",
+          "icon": "http://www.dowebok.com/wp-content/themes/uehtml/images/logo2.png",
+          "des": "dowebok,代码,素材,模板,jQuery,jQuery插件,jQuery特效,幻灯片,网页特效,js特效,css3",
+          "tags": [
+            "实例",
+            "插件",
+            "特效"
+          ]
+        },
+        {
+          "name": "plainJS - JavaScript仓库",
+          "url": "https://plainjs.com/",
+          "icon": "https://plainjs.com/static/img/logo.png",
+          "des": "该仓库都是用原生js写的插件和组件，很实用",
+          "tags": [
+            "工具",
+            "插件",
+            "组件"
           ]
         }
       ]
@@ -1490,15 +1441,15 @@
         {
           "name": "前端网（QDFuns）",
           "url": "https://www.qdfuns.com/u",
-          "icon": "https://cdn.static.qdfuns.com/images/logos/logo256.png",
-          "des": "代码笔记，可以运行代码",
+          "icon": "/nav/static/images/qdfuns.png",
+          "des": "代码示例笔记，运行代码看效果",
           "tags": [
             "前端网"
           ]
         },{
           "name": "CSDN 博客",
           "url": "https://blog.csdn.net/gqzydh",
-          "icon": "https://csdnimg.cn/public/favicon.ico",
+          "icon": "/nav/static/images/scdn.png",
           "des": "Web前端技术博客,CSDN-专业IT技术社区",
           "tags": [
             "博客"
@@ -1521,11 +1472,56 @@
           ]
         },{
           "name": "GQ博客",
-          "url": "http://gq1986.com/",
+          "url": "http://gqblog.cn",
           "icon": "http://gq1986.com/images/favicon_16X16.ico",
-          "des": "个人博客",
+          "des": "个人博客, 前端技术博客，html5,css3,javascript,jquery,vue.js",
           "tags": [
             "博客"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "其他资源",
+      "con": [
+        {
+          "name": "TinyPNG 图片在线压缩",
+          "url": "https://tinypng.com/",
+          "icon": "https://tinypng.com/images/apple-touch-icon.png",
+          "des": "TinyPNG使用智能有损压缩技术来减少 PNG文件的文件大小。",
+          "tags": [
+            "工具"
+          ]
+        },
+        {
+          "name": "BootCDN",
+          "url": "http://www.bootcdn.cn/",
+          "icon": "http://www.bootcdn.cn/assets/ico/apple-touch-icon-144-precomposed.png",
+          "des": "稳定、快速、免费的前端开源项目 CDN 加速服务",
+          "tags": [
+            "CDN"
+          ]
+        },
+        {
+          "name": "Staticfile CDN",
+          "url": "http://staticfile.org/",
+          "icon": "http://staticfile.org/assets/images/logo.png",
+          "des": "免费为之提供 CDN 加速服务，也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、图片和 swf 等静态文件。",
+          "tags": [
+            "工具",
+            "CDN"
+          ]
+        },
+        {
+          "name": "RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码",
+          "url": "http://runjs.cn/",
+          "icon": "https://runjs.cn/img/logo.png",
+          "des": "RunJS,在线编写、展示html、js、css代码，拥有实时预览、分享、Fork、代码高亮、自动完成等多项特性，提供文件上传、多种登录方式。",
+          "tags": [
+            "社区",
+            "工具",
+            "互交设计",
+            "在线编辑器"
           ]
         }
       ]
