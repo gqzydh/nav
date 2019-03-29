@@ -947,7 +947,7 @@
       ]
     },
     {
-      "title": "框架类库",
+      "title": "前端框架",
       "con": [
         {
           "name": "Bootstrap 中文网",
@@ -1000,7 +1000,16 @@
           "icon": "https://gqzydh.github.io/nav/static/images/layui.png",
           "des": "layui,ui,ui框架,前端框架,JS组件。",
           "tags": [
-            "前端模版"
+            "前端框架"
+          ]
+        },
+        {
+          "name": "MUI APP框架",
+          "url": "http://dev.dcloud.net.cn/mui/",
+          "icon": "/nav/static/images/mui.png",
+          "des": "MUI 最接近原生APP体验的高性能前端框架",
+          "tags": [
+            "前端框架"
           ]
         }
       ]
