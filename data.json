@@ -6,7 +6,7 @@
         {
           "name": "Mozilla 开发者网络",
           "url": "https://developer.mozilla.org/zh-CN/",
-          "icon": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
+          "icon": "https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png",
           "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
           "tags": [
             "社区"
@@ -662,6 +662,24 @@
           "url": "http://www.gruntjs.net/",
           "icon": "http://www.gruntjs.net/img/favicons/apple-touch-icon.png",
           "des": "GRUNT JavaScript 世界的构建工具",
+          "tags": [
+            "工具"
+          ]
+        },
+        {
+          "name": "Gulp 中文网",
+          "url": "https://www.gulpjs.com.cn/",
+          "icon": "https://www.gulpjs.com.cn/favicon.png",
+          "des": "用自动化构建工具增强你的工作流程！",
+          "tags": [
+            "工具"
+          ]
+        },
+        {
+          "name": "Webpack 中文网",
+          "url": "https://www.webpackjs.com/",
+          "icon": "https://www.webpackjs.com/assets/favicon.ico",
+          "des": "webpack 是一个模块打包器",
           "tags": [
             "工具"
           ]
