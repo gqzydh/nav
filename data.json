@@ -641,6 +641,16 @@
             "版本控制",
             "git"
           ]
+        },
+        {
+          "name": "Git-Book",
+          "url": "https://git-scm.com/book/zh/v2",
+          "icon": "https://git-scm.com/favicon.ico",
+          "des": "一个非常完整的介绍Git的在线书籍。",
+          "tags": [
+            "版本控制",
+            "git"
+          ]
         }
       ]
     },
