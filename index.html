@@ -47,13 +47,58 @@
                     <div>px换算成rem</div>
                 </div>                            
                 <div class="px_cont">
+                    <textarea id="input_px" class="px_textarea"></textarea>
+                    <div>
+                      <input type="button" id="pxBtn" value="px转换rem">
+                    </div>
+                    <textarea id="output_rm" readonly class="px_textarea"></textarea>
+                </div>
+            </div>  
+            <div class="fe fe_px" id="itemnull">
+                <div class="sub-category">
+                    <div> URL- ASCII符号编码 </div>
+                </div>                            
+                <div class="px_cont">
+                    <textarea id="input_url" class="px_textarea url_a"></textarea>
+                    <div>
+                      <input type="button" id="urlCoding" value="URL 编码">
+                    </div>
+                    <textarea id="output_cod" readonly class="px_textarea"></textarea>
+                </div>
+            </div>
+            <div class="fe fe_px" id="itemnull">
+                <div class="sub-category">
+                    <div> URL- ASCII符号编码 </div>
+                </div>   
+                <div class="px_cont">
+                    <textarea id="input_cods" class="px_textarea"></textarea>
+                    <div>
+                      <input type="button" id="urlDecoding" value="URL 解码">
+                    </div>
+                    <textarea id="output_urls" readonly class="px_textarea"></textarea>
+                </div>
+            </div>  
+
+            <!-- <div class="fe fe_px" id="itemnull">
+                <div class="sub-category">
+                    <div> JSON 数据转换 </div>
+                </div>                            
+                <div class="px_cont">
+                    <textarea id="input_json" class="px_textarea url_a"></textarea>
+                    <div>
+                      <input type="button" id="urlCoding" value="URL 编码">
+                    </div>
+                    <textarea id="output_cod" readonly class="px_textarea"></textarea>
+                </div>
+
+                <div class="px_cont">
                     <textarea id="input" class="px_textarea"></textarea>
                     <div>
-                      <input type="button" id="btn" value="px转换rem">
+                      <input type="button" id="urlDecoding" value="URL 解码">
                     </div>
                     <textarea id="output" readonly class="px_textarea"></textarea>
                 </div>
-            </div>  
+            </div>   -->
             
             <div class="footer">
                 <!--<div class="recommend">
@@ -113,6 +158,29 @@
     </script>
 <!-- 放回顶部 -->
 <pre><a class="to-top">返回顶部</a></pre>
+
+<script>
+    var urlCoding = document.getElementById('urlCoding');
+    var urlDecoding = document.getElementById('urlDecoding');
+    urlCoding.onclick = function() {
+        let urlA = document.getElementById('input_url').value;
+        urlB = encodeURIComponent(urlA);
+        document.getElementById('output_cod').innerText = urlB
+        console.log(urlB);
+    };
+
+    urlDecoding.onclick = function() {
+        let urlC = document.getElementById('input_cods').value;
+        urlD = decodeURIComponent(urlC);
+        document.getElementById('output_urls').innerText = urlD
+    };
+
+    // $('#urlCoding').click(function() {
+    //     var urlA = $.trim($('#input_json').val());
+    //     $('#output_cod').attr(enURIComponent(urlA));
+    //     //console.log(urlB);
+    // });
+</script>
 
     <script src="js/jquery.min.js"></script>
     <script src="js/template-web.js"></script>

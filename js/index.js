@@ -1,11 +1,10 @@
 $(function(){
-	var btn = $("#btn");
-	btn.click(function(){
-	  var v = $.trim($("#input").val());
+	$("#pxBtn").click(function(){
+	  var v = $.trim($("#input_px").val());
 	  v = v.replace(/([0-9\.]+)px/gi, function(s0, s1){
 	    return (Number(s1) / 30) + "rem";
 	  });
-	  $("#output").val(v);
+	  $("#output_rm").val(v);
 	  
 	});
 	$.ajax({
@@ -72,6 +71,21 @@ $(function(){
 
 	});
 	$('.to-top').toTop()
+	
+	// URL 编码
+	// function enURIComponent () {
+
+	// }
+	// $("#pxBtn").click(function(){
+	//  	var url_a = $.trim($("#input_url").val());
+	//   	v = v.replace(/([0-9\.]+)px/gi, function(s0, s1){
+	//     	return (Number(s1) / 30) + "rem";
+	//   });
+	//   	$("#output_rm").val(v);
+	// });
+	 
+	
+	
 
 });
 
