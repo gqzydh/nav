@@ -1260,6 +1260,15 @@
       "title": "字体图标",
       "con": [
         {
+          "name": "Font Awesome 中文网",
+          "url": "http://www.fontawesome.com.cn/",
+          "icon": "/nav/static/images/font_awesome.png",
+          "des": "Font Awesome 字体为您提供可缩放矢量图标,它可以被定制大小、颜色、阴影以及任何可以用CSS的样式。",
+          "tags": [
+            "图标"
+          ]
+        },
+        {
           "name": "Dryicons",
           "url": "http://www.freeiconsdownload.com/",
           "des": "按属性分类，国外免费图标下载",
