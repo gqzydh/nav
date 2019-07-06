@@ -1269,9 +1269,10 @@
           ]
         },
         {
-          "name": "Dryicons",
-          "url": "http://www.freeiconsdownload.com/",
-          "des": "按属性分类，国外免费图标下载",
+          "name": "IcoMoon",
+          "url": "https://icomoon.io/",
+          "icon": "https://icomoon.io/favicon.ico",
+          "des": "Pixel Perfect Icon解决方案.可自定义和清晰的图标字体生成器等",
           "tags": [
             "图标"
           ]
@@ -1279,7 +1280,8 @@
         {
           "name": "Evil Icons",
           "url": "http://evil-icons.io/",
-          "des": "简单干净的SVG图标包的代码支持Rails, Sprockets, Node.js, Gulp, Grunt and CDN。",
+          "icon": "https://evil-icons.io/assets/images/touch-icon-ipad-retina.png",
+          "des": "简单干净的SVG图标包的代码支持Rails, Sprockets, Node.js, Gulp, Grunt and CDN。邪恶的图标是完全免费的",
           "tags": [
             "图标"
           ]
@@ -1287,15 +1289,8 @@
         {
           "name": "Easy Icon",
           "url": "http://www.easyicon.cn/",
-          "des": "图标搜索引擎，支持中文检索",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "Favicon",
-          "url": "http://www.favicon.cc/",
-          "des": "在线生成ico浏览器图标",
+          "icon": "https://cdn-img.easyicon.net/image/2019/panda-index.svg",
+          "des": "图标搜索引擎，支持中文检索,图标下载,SVG图标下载,ICO图标下载,ICON图标下载,png图标,ico图标,icns图标,网页图标,图标素材,矢量LOGO素材",
           "tags": [
             "图标"
           ]
@@ -1303,23 +1298,17 @@
         {
           "name": "FindIcons",
           "url": "http://findicons.com/",
+          "icon": "https://findicons.com/static/images/logo/logo_3.png",
           "des": "FindIcons图标搜索引擎",
           "tags": [
             "图标"
           ]
         },
         {
-          "name": "Greatvectors",
-          "url": "http://www.greatvectors.com/",
-          "des": "国外专注于提供矢量素材下载的网站，更新频率较快",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "Icomoon",
-          "url": "http://icomoon.io/",
-          "des": "强大的简约图标库",
+          "name": "vexels",
+          "url": "https://www.vexels.com/",
+          "icon": "https://www.vexels.com/img/assets/logo.svg",
+          "des": "我们创造美丽的插图和独家设计，如矢量图像，图标，t恤设计，透明的PNG和SVG图像，模板和更多。从我们的股票下载授权的图形资源，用于商业和商业合并使用的AI, JPG, SVG, PDF和PNG。",
           "tags": [
             "图标"
           ]
@@ -1327,31 +1316,8 @@
         {
           "name": "Iconfont-阿里巴巴矢量图标库",
           "url": "http://iconfont.cn/",
+          "icon": "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
           "des": "Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "Iconfever",
-          "url": "http://iconfever.com/",
-          "des": "国外免费图标下载",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "IconFinder",
-          "url": "http://www.iconfinder.com/",
-          "des": "iconfinder图标搜索引擎",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "Iconmonstr",
-          "url": "http://iconmonstr.com/",
-          "des": "一套简笔Icon，包含各尺寸Icon上千个",
           "tags": [
             "图标"
           ]
@@ -1359,6 +1325,7 @@
         {
           "name": "Icons DB",
           "url": "http://www.iconsdb.com/",
+          "icon": "https://www.iconsdb.com/images/logo_n.png",
           "des": "免费的图标下载网站，可选择多种尺寸和格式",
           "tags": [
             "图标"
@@ -1367,6 +1334,7 @@
         {
           "name": "IOSIconGallery",
           "url": "http://iosicongallery.com/",
+          "icon": "https://www.iosicongallery.com/assets/images/ios-favicon.ico",
           "des": "收录了苹果客户端的所有的ios产品的图标",
           "tags": [
             "图标"
@@ -1375,31 +1343,8 @@
         {
           "name": "Shapes4free",
           "url": "http://www.shapes4free.com/",
-          "des": "提供了免费的photoshop自定义形状、图标",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "WeLoveIcons",
-          "url": "http://weloveicons.com/",
-          "des": "图标鉴赏",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "一淘UX图标库",
-          "url": "http://ux.etao.com/fonts",
-          "des": "一淘UX团队的图标字体库",
-          "tags": [
-            "图标"
-          ]
-        },
-        {
-          "name": "爱看图标",
-          "url": "http://www.iconpng.com/",
-          "des": "IconPng图标搜索引擎",
+          "icom": "http://www.shapes4free.com/assets/img/favicon.ico",
+          "des": "提供了免费的photoshop自定义形状、图标, 循环背景",
           "tags": [
             "图标"
           ]
