@@ -1306,8 +1306,8 @@
         },
         {
           "name": "vexels",
-          "url": "https://www.vexels.com/",
-          "icon": "https://www.vexels.com/img/assets/logo.svg",
+          "url": "/nav/static/images/vexels.png/",
+          "icon": "vexels",
           "des": "我们创造美丽的插图和独家设计，如矢量图像，图标，t恤设计，透明的PNG和SVG图像，模板和更多。从我们的股票下载授权的图形资源，用于商业和商业合并使用的AI, JPG, SVG, PDF和PNG。",
           "tags": [
             "图标"
@@ -1325,7 +1325,7 @@
         {
           "name": "Icons DB",
           "url": "http://www.iconsdb.com/",
-          "icon": "https://www.iconsdb.com/images/logo_n.png",
+          "icon": "/nav/static/images/iconsdb.png/",
           "des": "免费的图标下载网站，可选择多种尺寸和格式",
           "tags": [
             "图标"
@@ -1343,7 +1343,7 @@
         {
           "name": "Shapes4free",
           "url": "http://www.shapes4free.com/",
-          "icom": "http://www.shapes4free.com/assets/img/favicon.ico",
+          "icom": "/nav/static/images/shapes4free.png/",
           "des": "提供了免费的photoshop自定义形状、图标, 循环背景",
           "tags": [
             "图标"

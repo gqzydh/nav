@@ -65,7 +65,7 @@ a { text-decoration: none }
 .container .main .fe .logo { height: 40px; position: relative; font-size: 14px; font-weight: 700; color: #3273dc; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 0 .1rem }
 .container .main .fe .logo a { display: inline-block; width: 100% }
 .container .main .fe .logo a:active, .container .main .fe .logo a:focus, .container .main .fe .logo a:hover, .container .main .fe .logo a:visited { background: inherit }
-.container .main .fe .logo img { width: 40px; height: 40px; border-radius: 50%; vertical-align: middle }
+.container .main .fe .logo img { width: 40px; height: 40px; border-radius: 5px; vertical-align: middle }
 
 .container .main .fe_px{ margin: -10px 36px 20px 20px; }
 .container .main .fe_px .px_cont{padding:12px 22px 0px 22px;}
