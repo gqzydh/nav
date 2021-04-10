@@ -5,6 +5,8 @@ body { font-size: 12px; color: #4d4d4d; min-height: 100vh; -webkit-overflow-scro
 body.is-scroll { pointer-events: none }
 a { text-decoration: none }
 .container, .main, body { background: #f3f6f8 }
+
+.text-center{ text-align: center;}
 /* .content { -webkit-box-flex: 1 } */
 @media (min-width:481px) {
 	.container .left-bar { width: 220px; z-index: 100; height: 100vh; display: flex; background: #30333c; box-sizing: border-box; flex-direction: column; color: #6b7386 }
@@ -30,7 +32,7 @@ a { text-decoration: none }
 	.main #mainContent { max-width: 100%;}
 	.main .fe .item:hover { transform: translateY(-6px); -webkit-transform: translateY(-6px); -moz-transform: translateY(-6px); box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); -webkit-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); -moz-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, .3); transition: all .3s ease }
 }
-.recommend { height: 160px; background: #fff; color: #333; font-size: 16px; line-height: 22px; padding: 4px 36px; bottom: 30px }
+.recommend {background: #fff; color: #333; font-size: 16px; line-height: 22px; padding: 20px 36px; bottom: 30px }
 .recommend div, .recommend p { margin-top: 8px }
 .recommend img { height: 24px; margin-top: -4px; padding-left: 2px; vertical-align: middle; width: 24px; max-height: 100%; max-width: 100% }
 .recommend .recommend-icon { display: inline }
@@ -74,7 +76,7 @@ a { text-decoration: none }
  border-radius: 5px;}
 
 .container .footer { width: 100%; bottom: 0; line-height: 45px; background: #fff; box-shadow: 0 0 1rem rgba(0, 0, 0, .2) }
-.container .footer .recommend, .container .footer p { display: none }
+.container .footer .recommend, .container .footer p { display: "" }
 .container .footer .copyright { margin-left: 30px; color: #949494; font-size: 12px }
 .container .footer .copyright a { text-decoration: none; color: #3a85ff }
 
