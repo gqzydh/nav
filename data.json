@@ -1,6 +1,158 @@
 {
   "navList": [
     {
+      "title": "Vue2",
+      "con": [
+        {
+          "name": "Vue.js 中文网",
+          "url": "http://doc.vue-js.com/",
+          "icon": "http://doc.vue-js.com/images/logo.png",
+          "des": "渐进式JavaScript 框架",
+          "tags": [
+            "前端开发框架",
+            "vue中文网"
+          ]
+        },{
+          "name": "Vue.js 官网",
+          "url": "https://cn.vuejs.org/index.html",
+          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "des": "渐进式JavaScript 框架",
+          "tags": [
+            "前端开发框架",
+            "vue官网"
+          ]
+        },{
+          "name": "Vant 2.x",
+          "url": "https://vant-contrib.gitee.io/vant/#/zh-CN/",
+          "icon": "https://img01.yzcdn.cn/vant/logo.png",
+          "des": "轻量、可靠的移动端 Vue 组件库",
+          "tags": [
+            "vue移动端组件库",
+            "Vant官网"
+          ]
+        },
+        {
+          "name": "iView",
+          "url": "https://www.iviewui.com/",
+          "icon": "https://file.iviewui.com/file/favicon.ico",
+          "des": "一套基于 Vue.js 的高质量 UI 组件库",
+          "tags": [
+            "UI 组件库",
+            "vue UI组件库"
+          ]
+        },{
+          "name": "Element",
+          "url": "http://element-cn.eleme.io/#/zh-CN",
+          "icon": "http://element-cn.eleme.io/favicon.ico",
+          "des": "网站快速成型工具, Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+          "tags": [
+            "Vue 桌面端组件库"
+          ]
+        },
+        {
+          "name": "Mint UI",
+          "url": "http://mint-ui.github.io",
+          "des": "基于 Vue.js 的移动端组件库",
+          "tags": [
+            "Vue 移动端组件库"
+          ]
+        },{
+          "name": "Mock.js",
+          "url": "http://mockjs.com/",
+          "des": "生成随机数据，拦截 Ajax 请求",
+          "icon": "http://mockjs.com/assets/img/logo-2.svg",
+          "tags": [
+            "Vue 返回模拟的响应数据"
+          ]
+        },{
+          "name": "D2-Crud",
+          "url": "https://github.com/gqzydh/d2-crud",
+          "des": "基于Vue.js 2.2.0+和Element UI 2.0.0+的表格组件",
+          "icon": "https://d2.pub/d2-admin/preview/image/theme/d2/logo/all.png",
+          "tags": [
+            "Vue 表格组件"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vue3",
+      "con": [
+        {
+          "name": "Vue.js 中文网",
+          "url": "https://vue3js.cn/docs/zh/",
+          "icon": "https://vue3js.cn/docs/logo.png",
+          "des": "渐进式JavaScript 框架,Vue3中文文档",
+          "tags": [
+            "前端开发框架",
+            "vue3中文文档"
+          ]
+        },{
+          "name": "Element Plus",
+          "url": "https://element-plus.gitee.io/#/zh-CN/component/installation",
+          "icon": "https://element-plus.gitee.io/favicon.ico",
+          "des": "一套为开发者、设计师和产品经理准备的基于 Vue 3.0 的桌面端组件库",
+          "tags": [
+            "Vue3 网站快速成型工具"
+          ]
+        },
+        {
+          "name": "Vant 3.x",
+          "url": "https://vant-contrib.gitee.io/vant/v3/#/zh-CN",
+          "icon": "https://img.yzcdn.cn/vant/logo.png",
+          "des": "轻量、可靠的移动端 Vue 组件库",
+          "tags": [
+            "Vue移动端组件库"
+          ]
+        },{
+          "name": "Mock.js",
+          "url": "http://mockjs.com/",
+          "des": "生成随机数据，拦截 Ajax 请求",
+          "icon": "http://mockjs.com/assets/img/logo-2.svg",
+          "tags": [
+            "Vue 返回模拟的响应数据"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "前端工具",
+      "con": [
+        {
+          "name": "Lodash",
+          "url": "https://www.lodashjs.com/",
+          "icon": "https://www.lodashjs.com/img/lodash.png",
+          "des": "Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。",
+          "tags": [
+            "utils.js",
+            "js实用工具"
+          ]
+        },{
+          "name": "Swiper",
+          "url": "https://www.swiper.com.cn/",
+          "icon": "https://www.swiper.com.cn/templets/default/images/logo.png",
+          "des": "Swiper 应用较广泛的移动端网页触摸内容滑动js插件",
+          "tags": [
+            "轮播图",
+            "js插件"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "后台管理",
+      "con": [
+        {
+          "name": "vue-manage-system",
+          "url": "https://github.com/lin-xin/vue-manage-system",
+          "des": "基于 Vue3 + Element Plus 的后台管理系统解决方案",
+          "tags": [
+            "vue3-后台管理系统"
+          ]
+        }
+      ]
+    },
+    {
       "title": "开发社区",
       "con": [
         {
@@ -787,64 +939,6 @@
       ]
     },
     {
-      "title": "Vue.js",
-      "con": [
-        {
-          "name": "Vue.js 中文网",
-          "url": "http://doc.vue-js.com/",
-          "icon": "http://doc.vue-js.com/images/logo.png",
-          "des": "渐进式JavaScript 框架",
-          "tags": [
-            "前端开发框架",
-            "vue中文网"
-          ]
-        },{
-          "name": "Vue.js 官网",
-          "url": "https://cn.vuejs.org/index.html",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
-          "des": "渐进式JavaScript 框架",
-          "tags": [
-            "前端开发框架",
-            "vue官网"
-          ]
-        },
-        {
-          "name": "iView",
-          "url": "https://www.iviewui.com/",
-          "icon": "https://file.iviewui.com/file/favicon.ico",
-          "des": "一套基于 Vue.js 的高质量 UI 组件库",
-          "tags": [
-            "UI 组件库",
-            "vue UI组件库"
-          ]
-        },{
-          "name": "Element",
-          "url": "http://element-cn.eleme.io/#/zh-CN",
-          "icon": "http://element-cn.eleme.io/favicon.ico",
-          "des": "网站快速成型工具, Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
-          "tags": [
-            "Vue 桌面端组件库"
-          ]
-        },
-        {
-          "name": "Mint UI",
-          "url": "http://mint-ui.github.io",
-          "des": "基于 Vue.js 的移动端组件库",
-          "tags": [
-            "Vue 移动端组件库"
-          ]
-        },{
-          "name": "Mock.js",
-          "url": "http://mockjs.com/",
-          "des": "生成随机数据，拦截 Ajax 请求",
-          "icon": "http://mockjs.com/assets/img/logo-2.svg",
-          "tags": [
-            "Vue 返回模拟的响应数据"
-          ]
-        }
-      ]
-    },
-    {
       "title": "React Native",
       "con": [
         {
@@ -1504,6 +1598,16 @@
             "工具",
             "互交设计",
             "在线编辑器"
+          ]
+        },
+        {
+          "name": "百度统计",
+          "url": "https://tongji.baidu.com/web/help/index?from=2&castk=LTE%3D",
+          "icon": "https://tongji.baidu.com/web/image/logo.svg",
+          "des": "百度移动统计;移动应用统计;移动APP统计;Android统计;iOS统计;iphone统计",
+          "tags": [
+            "统计",
+            "工具"
           ]
         }
       ]
