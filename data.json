@@ -88,6 +88,40 @@
             "vue3中文文档"
           ]
         },{
+          "name": "Vite官方中文文档",
+          "url": "https://cn.vitejs.dev",
+          "icon": "https://cn.vitejs.dev/logo.svg",
+          "des": "下一代前端开发与构建工具",
+          "tags": [
+            "Vite",
+            "构建工具"
+          ]
+        },{
+          "name": "Vite官网",
+          "url": "https://vitejs.dev",
+          "icon": "https://cn.vitejs.dev/logo.svg",
+          "des": "Next Generation Frontend Tooling",
+          "tags": [
+            "Vite",
+            "构建工具"
+          ]
+        },{
+          "name": "Vue Router",
+          "url": "https://next.router.vuejs.org/zh/",
+          "icon": "https://vue3js.cn/docs/logo.png",
+          "des": "Vue Router 是 Vue.js 的官方路由",
+          "tags": [
+            "Vue 路由"
+          ]
+        },{
+          "name": "Vuex",
+          "url": "https://next.vuex.vuejs.org/zh/api/",
+          "icon": "https://vue3js.cn/docs/logo.png",
+          "des": "Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式",
+          "tags": [
+            "Vue 状态管理"
+          ]
+        },{
           "name": "Element Plus",
           "url": "https://element-plus.gitee.io/#/zh-CN/component/installation",
           "icon": "https://element-plus.gitee.io/favicon.ico",
@@ -95,8 +129,7 @@
           "tags": [
             "Vue3 网站快速成型工具"
           ]
-        },
-        {
+        },{
           "name": "Vant 3.x",
           "url": "https://vant-contrib.gitee.io/vant/v3/#/zh-CN",
           "icon": "https://img.yzcdn.cn/vant/logo.png",
@@ -105,12 +138,36 @@
             "Vue移动端组件库"
           ]
         },{
-          "name": "Mock.js",
+          "name": "Node.js",
+          "url": "http://nodejs.cn/",
+          "icon": "http://static.nodejs.cn/_static/img/logo.svg",
+          "des": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行器",
+          "tags": [
+            "node.js"
+          ]
+        },{
+          "name": "Vue CLI",
+          "url": "https://cli.vuejs.org/zh/guide",
+          "icon": "https://cli.vuejs.org/icons/apple-touch-icon-152x152.png",
+          "des": "Vue CLI 是一个基于 Vue.js 进行快速开发的完整系统",
+          "tags": [
+            "Vue CLI",
+            "vue/cli"
+          ]
+        },{
+          "name": "Fast Mock",
+          "url": "https://www.fastmock.site/#/",
+          "icon": "https://www.fastmock.site/resource/images/logo.png",
+          "des": "服务于前后端分离项目的接口 MOCK 平台",
+          "tags": [
+            "Mock"
+          ]
+        },{
+          "name": "Mockjs",
           "url": "http://mockjs.com/",
           "des": "生成随机数据，拦截 Ajax 请求",
-          "icon": "http://mockjs.com/assets/img/logo-2.svg",
           "tags": [
-            "Vue 返回模拟的响应数据"
+            "Mock"
           ]
         }
       ]
