@@ -173,6 +173,44 @@
       ]
     },
     {
+      "title": "React",
+      "con": [
+        {
+          "name": "React 官方中文文档",
+          "url": "https://react.docschina.org/",
+          "icon": "https://react.docschina.org/favicon.ico",
+          "des": "用于构建用户界面的 JavaScript 库",
+          "tags": [
+            "React"
+          ]
+        },{
+          "name": "Prettier",
+          "url": "https://prettier.io/",
+          "icon": "https://prettier.io/icon.png",
+          "des": "代码格式化程序",
+          "tags": [
+            "代码格式化"
+          ]
+        },{
+          "name": "Commitlint",
+          "url": "https://github.com/conventional-changelog/commitlint",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "检查您的提交消息是否符合常规提交格式",
+          "tags": [
+            "检查提交格式"
+          ]
+        },{
+          "name": "JSON-server",
+          "url": "https://github.com/typicode/json-server",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "基于node.js本地搭建mock数据",
+          "tags": [
+            "Mock"
+          ]
+        }
+      ]
+    },
+    {
       "title": "前端工具",
       "con": [
         {
@@ -991,38 +1029,6 @@
           "des": "Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。它还记录了  Mozilla 产品的文档，例如 Firefox OS。",
           "tags": [
             "社区"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "React Native",
-      "con": [
-        {
-          "name": "React Native 中文网",
-          "url": "https://reactnative.cn/",
-          "icon": "https://reactnative.cn/img/favicon.png",
-          "des": "React Native使你只使用JavaScript也能编写原生移动应用。 它在设计原理上和React一致，通过声明式的组件机制来搭建丰富多彩的用户界面。",
-          "tags": [
-            "React",
-            "React Native"
-          ]
-        },{
-          "name": "React.js 中文网",
-          "url": "https://react.docschina.org/",
-          "icon": "https://react.docschina.org/favicon.ico",
-          "des": "React.js用于构建用户界面的 JavaScript 库",
-          "tags": [
-            "React"
-          ]
-        },{
-          "name": "React 官网",
-          "url": "https://reactjs.org/",
-          "icon": "https://reactnative.cn/img/favicon.png",
-          "des": "用于构建用户界面的JavaScript库",
-          "tags": [
-            "React",
-            "React Native"
           ]
         }
       ]
