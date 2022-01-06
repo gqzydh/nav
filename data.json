@@ -4,15 +4,6 @@
       "title": "Vue2",
       "con": [
         {
-          "name": "Vue.js 中文网",
-          "url": "http://doc.vue-js.com/",
-          "icon": "http://doc.vue-js.com/images/logo.png",
-          "des": "渐进式JavaScript 框架",
-          "tags": [
-            "前端开发框架",
-            "vue中文网"
-          ]
-        },{
           "name": "Vue.js 官网",
           "url": "https://cn.vuejs.org/index.html",
           "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
@@ -50,19 +41,12 @@
           ]
         },
         {
-          "name": "Mint UI",
-          "url": "http://mint-ui.github.io",
-          "des": "基于 Vue.js 的移动端组件库",
+          "name": "Axios.js",
+          "url": "http://www.axios-js.com/",
+          "des": "易用、简洁且高效的http库",
+          "icon": "http://www.axios-js.com/icon/apple-touch-icon-57x57.png",
           "tags": [
-            "Vue 移动端组件库"
-          ]
-        },{
-          "name": "Mock.js",
-          "url": "http://mockjs.com/",
-          "des": "生成随机数据，拦截 Ajax 请求",
-          "icon": "http://mockjs.com/assets/img/logo-2.svg",
-          "tags": [
-            "Vue 返回模拟的响应数据"
+            "Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中"
           ]
         },{
           "name": "D2-Crud",
@@ -81,7 +65,7 @@
         {
           "name": "Vue3 中文官方文档",
           "url": "https://v3.cn.vuejs.org/",
-          "icon": "https://vue3js.cn/docs/logo.png",
+          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
           "des": "渐进式JavaScript 框架,Vue3中文文档",
           "tags": [
             "前端开发框架",
@@ -90,7 +74,7 @@
         },{
           "name": "Vue.js 中文网",
           "url": "https://vue3js.cn/docs/zh/",
-          "icon": "https://vue3js.cn/docs/logo.png",
+          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
           "des": "渐进式JavaScript 框架,Vue3中文文档",
           "tags": [
             "前端开发框架",
@@ -117,7 +101,7 @@
         },{
           "name": "Vue Router",
           "url": "https://next.router.vuejs.org/zh/",
-          "icon": "https://vue3js.cn/docs/logo.png",
+          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
           "des": "Vue Router 是 Vue.js 的官方路由",
           "tags": [
             "Vue 路由"
@@ -125,7 +109,7 @@
         },{
           "name": "Vuex",
           "url": "https://next.vuex.vuejs.org/zh/api/",
-          "icon": "https://vue3js.cn/docs/logo.png",
+          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
           "des": "Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式",
           "tags": [
             "Vue 状态管理"
@@ -133,7 +117,7 @@
         },{
           "name": "Element Plus",
           "url": "https://element-plus.gitee.io/#/zh-CN/component/installation",
-          "icon": "https://element-plus.gitee.io/favicon.ico",
+          "icon": "http://element-cn.eleme.io/favicon.ico",
           "des": "一套为开发者、设计师和产品经理准备的基于 Vue 3.0 的桌面端组件库",
           "tags": [
             "Vue3 网站快速成型工具"
