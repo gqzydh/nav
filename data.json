@@ -176,6 +176,45 @@
       ]
     },
     {
+      "title": "课程学习",
+      "con": [
+        {
+          "name": "腾讯课程 - IT·互联网",
+          "url": "https://ke.qq.com/course/list?mt=1001/",
+          "icon": "https://9.idqqimg.com/edu/edu_modules/edu-ui/img/nohash/favicon.ico",
+          "des": "腾讯推出的专业在线教育平台，采用直播教学方式，适合有充裕时间学习的同学。",
+          "tags": [
+            "腾讯课程",
+            "课程"
+          ]
+        },{
+          "name": "慕课网",
+          "url": "https://www.imooc.com/",
+          "icon": "https://www.imooc.com/static/img/common/touch-icon-ipad.png",
+          "des": "程序员的梦工厂，慕课网是垂直的互联网IT技能免费学习网站。",
+          "tags": [
+            "课程"
+          ]
+        },{
+          "name": "百度前端技术学园",
+          "url": "http://ife.baidu.com/",
+          "icon": "http://ife.baidu.com/assets/img/ife-logo.png",
+          "des": "面向所有自驱成长，终身学习，热爱生活的人，打造的Web前端技术学习园地",
+          "tags": [
+            "前端技术学习"
+          ]
+        },{
+          "name": "JSON-server",
+          "url": "https://github.com/typicode/json-server",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "基于node.js本地搭建mock数据",
+          "tags": [
+            "Mock"
+          ]
+        }
+      ]
+    },
+    {
       "title": "React",
       "con": [
         {
