@@ -9,7 +9,7 @@ a { text-decoration: none }
 .text-center{ text-align: center;}
 /* .content { -webkit-box-flex: 1 } */
 @media (min-width:481px) {
-	.container .left-bar { width: 220px; z-index: 100; height: 100vh; display: flex; background: #30333c; box-sizing: border-box; flex-direction: column; color: #6b7386 }
+	.container .left-bar { width: 200px; z-index: 100; height: 100vh; display: flex; background: #30333c; box-sizing: border-box; flex-direction: column; color: #6b7386 }
 	.container .left-bar .nav { flex: 1; overflow: hidden; -webkit-overflow-scrolling: touch; -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1 }
 	.container .left-bar .nav .category-nav, .container .left-bar .nav .item { position: relative }
 	.container .left-bar .nav .item .hairlines { position: absolute; height: 24px; right: 0; top: 11px }
@@ -38,7 +38,7 @@ a { text-decoration: none }
 .recommend .recommend-icon { display: inline }
 .recommend .recommend-icon a { margin-left: 6px; font-size: 13px; color: #5491ff; background: #e7f4ff; padding: 2px 8px; border-radius: 4px }
 .recommend .recommend-icon a:hover { background: #3a85ff; color: #fff }
-.container .left-bar { position: fixed; padding: 0 24px; z-index: 10000 }
+.container .left-bar { position: fixed; padding: 0 18px; z-index: 10000 }
 .container .left-bar .title { color: #fff; font-size: 18px; height: 50px; line-height: 50px;border-bottom: 2px solid hsla(0, 0%, 100%, .04);}
 .container .left-bar .title p { text-align: center }
 .container .left-bar .nav .item { height: 48px; line-height: 46px; border-top: 2px solid hsla(0, 0%, 100%, .04); border-bottom: 2px solid hsla(0, 0%, 100%, .04) }
@@ -49,25 +49,24 @@ a { text-decoration: none }
 .container .left-bar .nav li i.icon-goujian { padding-right: 10px; margin-left: 0 }
 .container .left-bar .nav li a { text-decoration: none; font-size: 13px; display: inline-block; width: 100%; color: #6b7386 }
 .container .left-bar .nav .ul_menu li:first-child a{color: #fff }
-.container .main { display: -webkit-box; display: flex; position: relative; -webkit-box-orient: vertical; flex-direction: column; -webkit-box-pack: center; justify-content: center; margin-left: 220px }
+.container .main { display: -webkit-box; display: flex; position: relative; -webkit-box-orient: vertical; flex-direction: column; -webkit-box-pack: center; justify-content: center; margin-left: 200px }
 .container .main #bookShareItem .item .logo img { border-radius: 0 }
 .container .main #wechatSubscriptionItem .item .title { text-align: center; margin-bottom: 0; margin-left: 0 }
 .container .main #wechatSubscriptionItem .item .logo { overflow: auto; float: none; width: auto; height: auto; border-radius: 0; text-align: center; padding: 0 }
 .container .main #wechatSubscriptionItem .item .logo img { width: 127px; height: 127px; border-radius: 0 }
 .container .main #wechatSubscriptionItem .item .desc { height: 20px; margin-top: 0; margin-bottom: 18px; text-align: center }
 .container .main #wechatSubscriptionItem .item .desc p { text-overflow: ellipsis; overflow: hidden; white-space: nowrap; width: 96% }
-.container .main .fe { overflow: hidden; background: #fff; margin: 20px 36px 20px 20px; padding-bottom: 20px; border-radius: 7px;}
+.container .main .fe { overflow: hidden; background: #fff; margin: 20px 30px 20px 20px; padding-bottom: 20px; border-radius: 7px;}
 .container .main .fe .sub-category>div { padding: 12px 0 0 2.1%; font-size: 18px }
 .container .main .fe .sub-category>div i { font-size: 18px }
 .container .main .fe:last-child { margin-bottom: 35px }
-.container .main .fe .item { border-radius: 6px; background: #f7f7f7; padding: 10px; width: 16%; min-width: 200px; margin: 22px 0 0 2.1%; float: left; overflow: hidden; border: 1px solid #f2f2f2; box-shadow: 1px 2px 3px #f2f6f8 }
+.container .main .fe .item { border-radius: 6px; background: #fafafa; padding: 10px; width: 16%; min-width: 200px; margin: 16px 0 0 1.2%; float: left; overflow: hidden; }
 .container .main .fe .item .title { font-size: 14px; font-weight: 700; margin: 10px; margin-left: 50px; color: #3273dc; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 0 .1rem }
-.container .main .fe .item .desc { color: gray; font-size: 12px; padding-top: 10px; height: 35px; overflow: hidden; border-top: 1px solid #ebebeb;
-    margin-top: 10px; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical }
-.container .main .fe .logo { height: 40px; position: relative; font-size: 14px; font-weight: 700; color: #3273dc; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 0 .1rem }
+.container .main .fe .item .desc { color: #A1A7B7; font-size: 12px; padding-top: 10px; height: 35px; overflow: hidden; margin-top: 10px; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical }
+.container .main .fe .logo { height: 30px; position: relative; font-size: 14px; font-weight: 700; color: #3273dc; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 0 .1rem }
 .container .main .fe .logo a { display: inline-block; width: 100% }
 .container .main .fe .logo a:active, .container .main .fe .logo a:focus, .container .main .fe .logo a:hover, .container .main .fe .logo a:visited { background: inherit }
-.container .main .fe .logo img { width: 40px; height: 40px; border-radius: 5px; vertical-align: middle }
+.container .main .fe .logo img { width: 30px; height: 30px; border-radius: 5px; vertical-align: middle }
 
 .container .main .fe_px{ margin: -10px 36px 20px 20px; }
 .container .main .fe_px .px_cont{padding:12px 22px 0px 22px;}
@@ -80,7 +79,7 @@ a { text-decoration: none }
 .container .footer .copyright { margin-left: 30px; color: #949494; font-size: 12px }
 .container .footer .copyright a { text-decoration: none; color: #3a85ff }
 
-.to-top { display: none; padding:6px 5px 5px 3px; color: #fff; background-color: #bbe299;word-wrap: break-word; letter-spacing: 3px; writing-mode: vertical-lr; box-shadow: 1px 3px 3px #888888;}
+.to-top { display: none; padding:6px 5px 5px 3px; color: #fff; background-color: #30333c; word-wrap: break-word; letter-spacing: 3px; writing-mode: vertical-lr; box-shadow: 1px 3px 3px #888888;}
 .to-top:hover{ background-color: #71d859; box-shadow: 2px 4px 5px #888888;}
 
 .but-submit{ padding: 10px; background-color: #900000; font-size: 16px; }
@@ -127,5 +126,5 @@ a { text-decoration: none }
 	.container .main .fe .item { width: 28% }
 }
 @media (min-width:1200px) {
-	.container .main .fe .item { width: 16% }
+	.container .main .fe .item { width: 17% }
 }

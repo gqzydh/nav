@@ -99,6 +99,16 @@
             "构建工具"
           ]
         },{
+          "name": "Vben Admin",
+          "url": "https://vvbin.cn/doc-next/guide/",
+          "icon": "https://vvbin.cn/doc-next/logo.png",
+          "des": "一个开箱即用的前端框架",
+          "tags": [
+            "Vben",
+            "Vue3",
+            "前端框架"
+          ]
+        },{
           "name": "Vue Router",
           "url": "https://next.router.vuejs.org/zh/",
           "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
