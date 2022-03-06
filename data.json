@@ -193,7 +193,8 @@
           "icon": "https://www.imooc.com/static/img/common/touch-icon-ipad.png",
           "des": "程序员的梦工厂，慕课网是垂直的互联网IT技能免费学习网站。",
           "tags": [
-            "课程"
+            "课程",
+            "在线教程"
           ]
         },{
           "name": "百度前端技术学园",
@@ -201,15 +202,61 @@
           "icon": "http://ife.baidu.com/assets/img/ife-logo.png",
           "des": "面向所有自驱成长，终身学习，热爱生活的人，打造的Web前端技术学习园地",
           "tags": [
-            "前端技术学习"
+            "前端技术学习",
+            "在线教程"
+          ]
+        },
+        {
+          "name": "极客学院",
+          "url": "http://www.jikexueyuan.com/",
+          "icon": "http://e.jikexueyuan.com/headerandfooter/images/logo.png",
+          "des": "极客学院作为中国专业IT职业在线教育平台,拥有海量高清IT职业课程,涵盖30+个技术领域,",
+          "tags": [
+            "在线教程"
           ]
         },{
-          "name": "JSON-server",
-          "url": "https://github.com/typicode/json-server",
-          "icon": "https://github.com/fluidicon.png",
-          "des": "基于node.js本地搭建mock数据",
+          "name": "宁浩网",
+          "url": "https://ninghao.net/",
+          "icon": "https://ninghao.net/files/asset/apple-touch-icon/72x72.png",
+          "des": "宁皓网，在线学会，视频教程， WordPress，Drupal，Laravel 还有 Bootstrap ",
           "tags": [
-            "Mock"
+            "视频教程"
+          ]
+        },
+        {
+          "name": "Scrimba",
+          "url": "https://scrimba.com/",
+          "icon": "https://scrimba.com/static/cached/favico1/favicon-32x32.png",
+          "des": "交互式编程教学网站，可以直播整个编码过程，可以实时看到运行结果,编码屏幕播放教程",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "极客标签",
+          "url": "http://www.gbtags.com/gb/index.htm",
+          "icon": "http://www.gbtags.com/gb/networks/themes/img/gbin1.ico",
+          "des": "极客标签是一个基于web的在线极客编程知识分享&学习平台，能够帮助你快速高效地学习代码编程并方便的在线实时分享编程技巧和心得",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "mooc学院",
+          "url": "https://mooc.guokr.com/",
+          "icon": "https://sslstatic.guokr.com/apps/academy/images/290a14e8.logo.png",
+          "des": "MOOC学院 集合Coursera，edX，udacity,学堂在线等平台所有课程的点评讨论社区",
+          "tags": [
+            "在线教程"
+          ]
+        },
+        {
+          "name": "优才学院",
+          "url": "http://www.ucai.cn/index",
+          "icon": "http://www.ucai.cn/public/themes/ucaistyle/ucai.ico",
+          "des": "UCAI是国内唯一一家专注于多方向全栈工程师培养的互联网职业技能在线学习平台，致力于打造中国IT职业教育O2O创新品牌。",
+          "tags": [
+            "在线教程"
           ]
         }
       ]
@@ -1263,82 +1310,6 @@
           "des": "javascript,node,jquery,git,python,java,sql,linux,ios,android,教程,软件,编程,开发,运维,云计算,网络,互联网",
           "tags": [
             "博客"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "视频学习",
-      "con": [
-        {
-          "name": "慕课网（IMOOC）",
-          "url": "https://www.imooc.com/",
-          "icon": "https://www.imooc.com/static/img/common/touch-icon-ipad.png",
-          "des": "慕课网（IMOOC）是IT技能学习平台。慕课网(IMOOC)提供了丰富的移动端开发、php开发、web前端、android开发以及html5等视频教程资源公开课。并且富有交互性及趣味性，你还可以和朋友一起编程。",
-          "tags": [
-            "在线教程"
-          ]
-        },
-        {
-          "name": "极客学院",
-          "url": "http://www.jikexueyuan.com/",
-          "icon": "http://e.jikexueyuan.com/headerandfooter/images/logo.png",
-          "des": "极客学院作为中国专业IT职业在线教育平台,拥有海量高清IT职业课程,涵盖30+个技术领域,",
-          "tags": [
-            "在线教程"
-          ]
-        },{
-          "name": "宁浩网",
-          "url": "https://ninghao.net/",
-          "icon": "https://ninghao.net/files/asset/apple-touch-icon/72x72.png",
-          "des": "宁皓网，在线学会，视频教程， WordPress，Drupal，Laravel 还有 Bootstrap ",
-          "tags": [
-            "视频教程"
-          ]
-        },
-        {
-          "name": "Scrimba",
-          "url": "https://scrimba.com/",
-          "icon": "https://scrimba.com/static/cached/favico1/favicon-32x32.png",
-          "des": "交互式编程教学网站，可以直播整个编码过程，可以实时看到运行结果,编码屏幕播放教程",
-          "tags": [
-            "在线教程"
-          ]
-        },
-        {
-          "name": "腾讯课堂",
-          "url": "https://ke.qq.com/",
-          "icon": "https://8.url.cn/edu/edu_modules/edu-ui/img/nohash/favicon.ico",
-          "des": "腾讯课堂-腾讯推出的专业在线教育平台，聚合大量优质教育机构和名师，下设职业培训、公务员考试、托福雅思、考证考级、英语口语、中小学教育等众多在线学习精品课程，打造老师在线上课教学、学生及时互动学习的课堂。腾讯课堂，学习成就梦想！",
-          "tags": [
-            "在线教程"
-          ]
-        },
-        {
-          "name": "极客标签",
-          "url": "http://www.gbtags.com/gb/index.htm",
-          "icon": "http://www.gbtags.com/gb/networks/themes/img/gbin1.ico",
-          "des": "极客标签是一个基于web的在线极客编程知识分享&学习平台，能够帮助你快速高效地学习代码编程并方便的在线实时分享编程技巧和心得",
-          "tags": [
-            "在线教程"
-          ]
-        },
-        {
-          "name": "mooc学院",
-          "url": "https://mooc.guokr.com/",
-          "icon": "https://sslstatic.guokr.com/apps/academy/images/290a14e8.logo.png",
-          "des": "MOOC学院 集合Coursera，edX，udacity,学堂在线等平台所有课程的点评讨论社区",
-          "tags": [
-            "在线教程"
-          ]
-        },
-        {
-          "name": "优才学院",
-          "url": "http://www.ucai.cn/index",
-          "icon": "http://www.ucai.cn/public/themes/ucaistyle/ucai.ico",
-          "des": "UCAI是国内唯一一家专注于多方向全栈工程师培养的互联网职业技能在线学习平台，致力于打造中国IT职业教育O2O创新品牌。",
-          "tags": [
-            "在线教程"
           ]
         }
       ]
