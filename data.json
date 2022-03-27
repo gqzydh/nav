@@ -79,6 +79,16 @@
             "前端开发框架",
             "vue3中文文档"
           ]
+        },
+        {
+          "name": "Vue3中文文档",
+          "url": "https://staging-cn.vuejs.org/",
+          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "des": "渐进式JavaScript 框架,Vue3中文文档",
+          "tags": [
+            "前端开发框架",
+            "vue3中文文档"
+          ]
         },{
           "name": "Vue.js 中文网",
           "url": "https://vue3js.cn/docs/zh/",
