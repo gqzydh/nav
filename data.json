@@ -194,6 +194,36 @@
       ]
     },
     {
+      "title": "JavaScript",
+      "con": [
+        {
+          "name": "Plainjs-原生js",
+          "url": "https://plainjs.com/",
+          "icon": "https://plainjs.com/apple-touch-icon-120x120.png",
+          "des": "原生 JavaScript 解决方案，js实例，原生js写的插件和组件",
+          "tags": [
+            "原生js",
+            "纯js"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "组件插件",
+      "con": [
+        {
+          "name": "ECharts",
+          "url": "https://echarts.apache.org/zh/index.html",
+          "icon": "https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/favicon.png",
+          "des": "一个基于 JavaScript 的开源可视化图表库",
+          "tags": [
+            "视化图表库",
+            "图表"
+          ]
+        }
+      ]
+    },
+    {
       "title": "课程学习",
       "con": [
         {
@@ -1266,7 +1296,7 @@
       ]
     },
     {
-      "title": "组件插件",
+      "title": "JQuery",
       "con": [
         {
           "name": "JQuery插件库",
@@ -1299,17 +1329,6 @@
             "实例",
             "插件",
             "特效"
-          ]
-        },
-        {
-          "name": "plainJS - JavaScript仓库",
-          "url": "https://plainjs.com/",
-          "icon": "https://plainjs.com/static/img/logo.png",
-          "des": "该仓库都是用原生js写的插件和组件，很实用",
-          "tags": [
-            "工具",
-            "插件",
-            "组件"
           ]
         }
       ]
