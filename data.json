@@ -220,6 +220,15 @@
             "视化图表库",
             "图表"
           ]
+        },{
+          "name": "ECharts Demo集",
+          "url": "https://www.isqqw.com",
+          "icon": "https://www.isqqw.com/favicon.ico",
+          "des": "echarts gallery,gallery社区,make a pie,echarts社区,图表可视化,H5图表框架",
+          "tags": [
+            "视化图表库",
+            "图表"
+          ]
         }
       ]
     },
