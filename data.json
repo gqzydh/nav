@@ -188,6 +188,47 @@
       ]
     },
     {
+      "title": "React",
+      "con": [
+        {
+          "name": "React 官方中文文档",
+          "url": "https://react.docschina.org/",
+          "icon": "https://react.docschina.org/favicon.ico",
+          "des": "用于构建用户界面的 JavaScript 库",
+          "tags": [
+            "React"
+          ]
+        },
+        {
+          "name": "Prettier",
+          "url": "https://prettier.io/",
+          "icon": "https://prettier.io/icon.png",
+          "des": "代码格式化程序",
+          "tags": [
+            "代码格式化"
+          ]
+        },
+        {
+          "name": "Commitlint",
+          "url": "https://github.com/conventional-changelog/commitlint",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "检查您的提交消息是否符合常规提交格式",
+          "tags": [
+            "检查提交格式"
+          ]
+        },
+        {
+          "name": "JSON-server",
+          "url": "https://github.com/typicode/json-server",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "基于node.js本地搭建mock数据",
+          "tags": [
+            "Mock"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Js+Ts",
       "con": [
         {
@@ -199,7 +240,8 @@
             "原生js",
             "纯js"
           ]
-        }, {
+        },
+        {
           "name": "TypeScript中文网",
           "url": "https://www.tslang.cn/docs/home.html",
           "icon": "https://www.tslang.cn/assets/images/icons/apple-touch-icon-72x72.png",
@@ -209,6 +251,97 @@
             "Ts"
           ]
         }
+      ]
+    },
+    {
+      "title": "前端工具",
+      "con": [
+        {
+          "name": "Webpack 中文网",
+          "url": "https://www.webpackjs.com/",
+          "icon": "https://www.webpackjs.com/assets/favicon.ico",
+          "des": "webpack 是一个模块打包器",
+          "tags": [
+            "工具"
+          ]
+        },
+        {
+          "name": "Lodash",
+          "url": "https://www.lodashjs.com/",
+          "icon": "https://www.lodashjs.com/img/lodash.png",
+          "des": "Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。",
+          "tags": [
+            "utils.js",
+            "js实用工具"
+          ]
+        },
+        {
+          "name": "Swiper",
+          "url": "https://www.swiper.com.cn/",
+          "icon": "https://www.swiper.com.cn/templets/default/images/logo.png",
+          "des": "Swiper 应用较广泛的移动端网页触摸内容滑动js插件",
+          "tags": [
+            "轮播图",
+            "js插件"
+          ]
+        },
+          {
+            "name": "npm ",
+            "url": "https://www.npmjs.com/",
+            "icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
+            "des": "npm是JavaScript和全球最大的软件注册管理机构的软件包管理器。发现可重用代码包 - 并以强大的新方式进行组装。",
+            "tags": [
+              "工具",
+              "NPM"
+            ]
+          },
+          {
+            "name": "Grunt",
+            "url": "http://www.gruntjs.net/",
+            "icon": "http://www.gruntjs.net/img/favicons/apple-touch-icon.png",
+            "des": "GRUNT JavaScript 世界的构建工具",
+            "tags": [
+              "工具"
+            ]
+          },
+          {
+            "name": "Gulp 中文网",
+            "url": "https://www.gulpjs.com.cn/",
+            "icon": "https://www.gulpjs.com.cn/favicon.png",
+            "des": "用自动化构建工具增强你的工作流程！",
+            "tags": [
+              "工具"
+            ]
+          },
+          {
+            "name": "bower",
+            "url": "https://bower.io/",
+            "icon": "https://bower.io/apple-touch-icon.png",
+            "des": "Bower可以管理包含HTML，CSS，JavaScript，字体甚至图像文件的组件。Bower不会连接或缩小代码或执行其他任何操作 - 它只是安装所需软件包的正确版本及其依赖项",
+            "tags": [
+              "工具"
+            ]
+          },
+          {
+            "name": "Less 中文网",
+            "url": "http://lesscss.cn/",
+            "icon": "http://s.nodejs.cn/less/ico/favicon.ico",
+            "des": "Less 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。",
+            "tags": [
+              "工具",
+              "css"
+            ]
+          },
+          {
+            "name": "RequireJS 中文网",
+            "url": "http://requirejs.cn/",
+            "icon": "http://requirejs.cn/favicon.png",
+            "des": "RequireJS 是一个JavaScript模块加载器。它非常适合在浏览器中使用，但它也可以用在其他脚本环境，就像 Rhino and Node。使用RequireJS加载模块化脚本将提高代码的加载速度和质量。",
+            "tags": [
+              "工具",
+              "模块加载"
+            ]
+          }
       ]
     },
     {
@@ -351,44 +484,6 @@
       ]
     },
     {
-      "title": "React",
-      "con": [
-        {
-          "name": "React 官方中文文档",
-          "url": "https://react.docschina.org/",
-          "icon": "https://react.docschina.org/favicon.ico",
-          "des": "用于构建用户界面的 JavaScript 库",
-          "tags": [
-            "React"
-          ]
-        },{
-          "name": "Prettier",
-          "url": "https://prettier.io/",
-          "icon": "https://prettier.io/icon.png",
-          "des": "代码格式化程序",
-          "tags": [
-            "代码格式化"
-          ]
-        },{
-          "name": "Commitlint",
-          "url": "https://github.com/conventional-changelog/commitlint",
-          "icon": "https://github.com/fluidicon.png",
-          "des": "检查您的提交消息是否符合常规提交格式",
-          "tags": [
-            "检查提交格式"
-          ]
-        },{
-          "name": "JSON-server",
-          "url": "https://github.com/typicode/json-server",
-          "icon": "https://github.com/fluidicon.png",
-          "des": "基于node.js本地搭建mock数据",
-          "tags": [
-            "Mock"
-          ]
-        }
-      ]
-    },
-    {
       "title": "前端资讯",
       "con": [
         {
@@ -414,31 +509,6 @@
           "tags": [
             "在线工具",
             "实用工具"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "前端工具",
-      "con": [
-        {
-          "name": "Lodash",
-          "url": "https://www.lodashjs.com/",
-          "icon": "https://www.lodashjs.com/img/lodash.png",
-          "des": "Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。",
-          "tags": [
-            "utils.js",
-            "js实用工具"
-          ]
-        },
-        {
-          "name": "Swiper",
-          "url": "https://www.swiper.com.cn/",
-          "icon": "https://www.swiper.com.cn/templets/default/images/logo.png",
-          "des": "Swiper 应用较广泛的移动端网页触摸内容滑动js插件",
-          "tags": [
-            "轮播图",
-            "js插件"
           ]
         }
       ]
@@ -1132,77 +1202,6 @@
           "tags": [
             "版本控制",
             "git"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "构建工具",
-      "con": [
-        {
-          "name": "npm ",
-          "url": "https://www.npmjs.com/",
-          "icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
-          "des": "npm是JavaScript和全球最大的软件注册管理机构的软件包管理器。发现可重用代码包 - 并以强大的新方式进行组装。",
-          "tags": [
-            "工具",
-            "NPM"
-          ]
-        },
-        {
-          "name": "Grunt",
-          "url": "http://www.gruntjs.net/",
-          "icon": "http://www.gruntjs.net/img/favicons/apple-touch-icon.png",
-          "des": "GRUNT JavaScript 世界的构建工具",
-          "tags": [
-            "工具"
-          ]
-        },
-        {
-          "name": "Gulp 中文网",
-          "url": "https://www.gulpjs.com.cn/",
-          "icon": "https://www.gulpjs.com.cn/favicon.png",
-          "des": "用自动化构建工具增强你的工作流程！",
-          "tags": [
-            "工具"
-          ]
-        },
-        {
-          "name": "Webpack 中文网",
-          "url": "https://www.webpackjs.com/",
-          "icon": "https://www.webpackjs.com/assets/favicon.ico",
-          "des": "webpack 是一个模块打包器",
-          "tags": [
-            "工具"
-          ]
-        },
-        {
-          "name": "bower",
-          "url": "https://bower.io/",
-          "icon": "https://bower.io/apple-touch-icon.png",
-          "des": "Bower可以管理包含HTML，CSS，JavaScript，字体甚至图像文件的组件。Bower不会连接或缩小代码或执行其他任何操作 - 它只是安装所需软件包的正确版本及其依赖项",
-          "tags": [
-            "工具"
-          ]
-        },
-        {
-          "name": "Less 中文网",
-          "url": "http://lesscss.cn/",
-          "icon": "http://s.nodejs.cn/less/ico/favicon.ico",
-          "des": "Less 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。",
-          "tags": [
-            "工具",
-            "css"
-          ]
-        },
-        {
-          "name": "RequireJS 中文网",
-          "url": "http://requirejs.cn/",
-          "icon": "http://requirejs.cn/favicon.png",
-          "des": "RequireJS 是一个JavaScript模块加载器。它非常适合在浏览器中使用，但它也可以用在其他脚本环境，就像 Rhino and Node。使用RequireJS加载模块化脚本将提高代码的加载速度和质量。",
-          "tags": [
-            "工具",
-            "模块加载"
           ]
         }
       ]
