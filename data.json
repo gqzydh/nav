@@ -1210,6 +1210,14 @@
       "title": "文档-API",
       "con": [
         {
+          "name": "印记中文",
+          "url": "https://docschina.org/",
+          "icon": "https://docschina.org/favicon.ico",
+          "des": "前端开发人员提供优质文档",
+          "tags": [
+            "文档"
+          ]
+        },{
           "name": "腾讯云-开发者手册",
           "url": "https://cloud.tencent.com/developer/devdocs",
           "icon": "https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/portal/css/img/nav/logo-bg-color.svg",
