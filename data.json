@@ -152,6 +152,15 @@
             "Vue 状态管理"
           ]
         },{
+          "name": "Pinia",
+          "url": "https://pinia.vuejs.org/",
+          "icon": "https://pinia.vuejs.org/logo.svg",
+          "des": "Vue 新一代的轻量级状态管理库, 同时支持 Vue2 和 Vue3",
+          "tags": [
+            "Vue 状态管理"
+          ]
+        },
+        {
           "name": "Element Plus",
           "url": "https://element-plus.gitee.io/#/zh-CN/component/installation",
           "icon": "http://element-cn.eleme.io/favicon.ico",
