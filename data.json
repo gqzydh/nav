@@ -1298,6 +1298,15 @@
       "title": "前端框架",
       "con": [
         {
+          "name": "qiankun",
+          "url": "https://qiankun.umijs.org/zh",
+          "icon": "https://gw.alipayobjects.com/mdn/rms_655822/afts/img/A*4sIUQpcos_gAAAAAAAAAAAAAARQnAQ",
+          "des": "qiankun 是一个基于 single-spa 的微前端实现库，旨在帮助大家能更简单、无痛的构建一个生产可用微前端架构系统。",
+          "tags": [
+            "微前端实现库"
+          ]
+        },
+        {
           "name": "Bootstrap 中文网",
           "url": "http://www.bootcss.com/",
           "icon": "http://static.bootcss.com/www/assets/ico/favicon.png",
