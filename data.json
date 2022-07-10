@@ -210,13 +210,35 @@
           ]
         },
         {
+          "name": "mpvue",
+          "url": "http://mpvue.com/",
+          "icon": "http://mpvue.com/assets/img/logo.0aaccdfd.png",
+          "des": "mpvue 是一个使用 Vue.js 开发小程序的前端框架。",
+          "tags": [
+            "小程序的前端框架",
+            "uni-app"
+          ]
+        },
+        {
           "name": "Dcloud",
           "url": "https://dcloud.io/",
           "icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f184e7c3-1912-41b2-b81f-435d1b37c7b4/5a7f902b-21a7-4822-884f-925219eacc4b.png",
           "des": "ni-app,uniapp,HBuilderX,快应用,流应用,wap2app,mui,nativejs,dcloud,HBuilder,HTML5,数字天堂网络,数字天堂,前端开发,web开发,跨平台,跨平台开发,混合开发,app开发,多端开发,开发工具",
           "tags": [
             "小程序",
-            "uniapp",
+            "uni-app",
+            "HBuilderX"
+          ]
+        },
+        {
+          "name": "Dcloud 插件市场",
+          "url": "https://ext.dcloud.net.cn/",
+          "icon": "https://img-cdn-aliyun.dcloud.net.cn/dev/img/ext/logo-ext-new.png",
+          "des": "插件,插件市场,uniapp,uni-app,小程序,混合开发,html,javascript,跨平台开发,微信小程序,支付宝小程,百度小程序,原生插件,uniapp android原生插件, uniapp ios原生插件,组件,SDK,模板,页面模板,项目模板,HBuilderX插件,前端组件,unicloud",
+          "tags": [
+            "Dcloud",
+            "插件市场",
+            "uni-app",
             "HBuilderX"
           ]
         },
