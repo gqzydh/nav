@@ -22,7 +22,7 @@
           ]
         },{
           "name": "Vant 2.x",
-          "url": "https://vant-contrib.gitee.io/vant/#/zh-CN/",
+          "url": "https://vant-contrib.gitee.io/vant/v2/#/zh-CN/",
           "icon": "https://img01.yzcdn.cn/vant/logo.png",
           "des": "轻量、可靠的移动端 Vue 组件库",
           "tags": [
@@ -170,7 +170,7 @@
           ]
         },{
           "name": "Vant 3.x",
-          "url": "https://vant-contrib.gitee.io/vant/v3/#/zh-CN",
+          "url": "https://vant-contrib.gitee.io/vant/#/zh-CN",
           "icon": "https://img.yzcdn.cn/vant/logo.png",
           "des": "轻量、可靠的移动端 Vue 组件库",
           "tags": [
@@ -352,13 +352,23 @@
           ]
         },
           {
+            "name": "pnpm ",
+            "url": "https://pnpm.io/zh/",
+            "icon": "https://pnpm.io/zh/img/pnpm-no-name-with-frame.svg",
+            "des": "pnpm是快速的，节省磁盘空间的包管理工具",
+            "tags": [
+              "工具",
+              "pnpm"
+            ]
+          },
+          {
             "name": "npm ",
             "url": "https://www.npmjs.com/",
             "icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png",
             "des": "npm是JavaScript和全球最大的软件注册管理机构的软件包管理器。发现可重用代码包 - 并以强大的新方式进行组装。",
             "tags": [
               "工具",
-              "NPM"
+              "npm"
             ]
           },
           {
