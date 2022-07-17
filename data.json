@@ -332,6 +332,16 @@
           ]
         },
         {
+          "name": "VueUse",
+          "url": "https://vueuse.org/",
+          "icon": "https://d33wubrfki0l68.cloudfront.net/2f6479d73bc25170dc532dd42e059166573bf478/61057/favicon.svg",
+          "des": "基本 Vue 组合实用程序的集合",
+          "tags": [
+            "工具",
+            "Composition API"
+          ]
+        },
+        {
           "name": "Lodash",
           "url": "https://www.lodashjs.com/",
           "icon": "https://www.lodashjs.com/img/lodash.png",
