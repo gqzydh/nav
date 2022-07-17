@@ -466,6 +466,14 @@
             "Mock"
           ]
         },{
+          "name": "Apifox",
+          "url": "https://www.apifox.cn/",
+          "icon": "https://cdn.apifox.cn/logo/apifox-logo-text.png",
+          "des": "API 文档、API 调试、API Mock、API 自动化测试，Apifox = Postman + Swagger + Mock + JMeter",
+          "tags": [
+            "Mock"
+          ]
+        },{
           "name": "Mockjs",
           "url": "http://mockjs.com/",
           "des": "生成随机数据，拦截 Ajax 请求",
