@@ -618,6 +618,29 @@
       ]
     },
     {
+      "title": "css3动画",
+      "con": [
+        {
+          "name": "AnimXYZ",
+          "url": "https://animxyz.com/",
+          "icon": "https://animxyz.com/assets/static/animxyz-logo-touch.1539b60.3557e7532e491dc35ca9fc3fc3789c7d.png",
+          "des": "Vue, React, CSS,一个可组合CSS动画工具包",
+          "tags": [
+            "css动画"
+          ]
+        },
+        {
+          "name": "Whirl",
+          "url": "https://whirl.netlify.app/",
+          "icon": "https://whirl.netlify.app/favicon.ico",
+          "des": "CSS加载动画",
+          "tags": [
+            "css动画"
+          ]
+        }
+      ]
+    },
+    {
       "title": "后台管理",
       "con": [
         {
