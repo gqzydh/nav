@@ -254,47 +254,6 @@
       ]
     },
     {
-      "title": "React",
-      "con": [
-        {
-          "name": "React 官方中文文档",
-          "url": "https://react.docschina.org/",
-          "icon": "https://react.docschina.org/favicon.ico",
-          "des": "用于构建用户界面的 JavaScript 库",
-          "tags": [
-            "React"
-          ]
-        },
-        {
-          "name": "Prettier",
-          "url": "https://prettier.io/",
-          "icon": "https://prettier.io/icon.png",
-          "des": "代码格式化程序",
-          "tags": [
-            "代码格式化"
-          ]
-        },
-        {
-          "name": "Commitlint",
-          "url": "https://github.com/conventional-changelog/commitlint",
-          "icon": "https://github.com/fluidicon.png",
-          "des": "检查您的提交消息是否符合常规提交格式",
-          "tags": [
-            "检查提交格式"
-          ]
-        },
-        {
-          "name": "JSON-server",
-          "url": "https://github.com/typicode/json-server",
-          "icon": "https://github.com/fluidicon.png",
-          "des": "基于node.js本地搭建mock数据",
-          "tags": [
-            "Mock"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Js+Ts",
       "con": [
         {
@@ -492,7 +451,38 @@
       ]
     },
     {
-      "title": "课程学习",
+      "title": "官网文档",
+      "con": [
+        {
+          "name": "Jenkins",
+          "url": "https://www.jenkins.io/zh/doc/",
+          "icon": "https://www.jenkins.io/zh/sites/default/files/jenkins_favicon.ico",
+          "des": "Jenkins 是一个开源自动化服务器",
+          "tags": [
+            "Jenkins"
+          ]
+        },{
+          "name": "Docker 中文指南",
+          "url": "https://www.widuu.com/docker/index.html",
+          "icon": "https://static.coonote.com/docker_intro.png",
+          "des": "Docker 是一个开源的应用容器引擎，基于 Go 语言 并遵从Apache2.0协议开源。Docker 可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口（类似 iPhone 的 app）,更重要的是容器性能开销极低。",
+          "tags": [
+            "Docker"
+          ]
+        },
+        {
+          "name": "Docker 菜鸟笔记",
+          "url": "https://www.coonote.com/docker/docker-tutorial.html",
+          "icon": "https://static.coonote.com/docker_intro.png",
+          "des": "Docker 是一个开源的应用容器引擎，基于 Go 语言 并遵从Apache2.0协议开源。Docker 可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口（类似 iPhone 的 app）,更重要的是容器性能开销极低。",
+          "tags": [
+            "Docker"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Web学习",
       "con": [
         {
           "name": "腾讯课程 - IT·互联网",
@@ -573,6 +563,47 @@
           "des": "UCAI是国内唯一一家专注于多方向全栈工程师培养的互联网职业技能在线学习平台，致力于打造中国IT职业教育O2O创新品牌。",
           "tags": [
             "在线教程"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "React",
+      "con": [
+        {
+          "name": "React 官方中文文档",
+          "url": "https://react.docschina.org/",
+          "icon": "https://react.docschina.org/favicon.ico",
+          "des": "用于构建用户界面的 JavaScript 库",
+          "tags": [
+            "React"
+          ]
+        },
+        {
+          "name": "Prettier",
+          "url": "https://prettier.io/",
+          "icon": "https://prettier.io/icon.png",
+          "des": "代码格式化程序",
+          "tags": [
+            "代码格式化"
+          ]
+        },
+        {
+          "name": "Commitlint",
+          "url": "https://github.com/conventional-changelog/commitlint",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "检查您的提交消息是否符合常规提交格式",
+          "tags": [
+            "检查提交格式"
+          ]
+        },
+        {
+          "name": "JSON-server",
+          "url": "https://github.com/typicode/json-server",
+          "icon": "https://github.com/fluidicon.png",
+          "des": "基于node.js本地搭建mock数据",
+          "tags": [
+            "Mock"
           ]
         }
       ]
