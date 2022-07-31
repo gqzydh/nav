@@ -645,6 +645,65 @@
             "在线工具",
             "实用工具"
           ]
+        },
+        {
+          "name": " 菜鸟工具 - 不止于工具",
+          "url": "https://c.runoob.com/",
+          "icon": "https://static.runoob.com/images/c-runoob-logo.ico",
+          "des": "菜鸟工具,网址导航,在线工具",
+          "tags": [
+            "在线工具",
+            "实用工具"
+          ]
+        },
+        {
+          "name": "remove图片背景消除",
+          "url": "https://www.remove.bg/zh",
+          "icon": "https://static.remove.bg/remove-bg-web/bf3af3e882eb04971b4492a1015ef7e77df29362/assets/logo-nav-9c62b7e3f4c43480bcd12867907e1fb4525f57535be412bbd59fd4c6466bfd40.svg",
+          "des": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
+          "tags": [
+            "在线工具",
+            "在线抠图软件"
+          ]
+        },
+        {
+          "name": "比特虫",
+          "url": "https://www.bitbug.net/",
+          "icon": "https://www.bitbug.net/favicon.ico",
+          "des": "在线制作ico图标",
+          "tags": [
+            "在线工具",
+            "制作ico图标"
+          ]
+        },{
+          "name": "svg工具",
+          "url": "https://c.runoob.com/more/svgeditor/",
+          "icon": "https://c.runoob.com/more/svgeditor/images/favicon.svg",
+          "des": "svg工具 菜鸟教程的工具，图片转svg,svg转图片，都可以的！",
+          "tags": [
+            "在线工具",
+            "svg工具"
+          ]
+        },
+        {
+          "name": "aconvert",
+          "url": "https://www.aconvert.com/cn/",
+          "icon": "https://c.runoob.com/more/svgeditor/images/favicon.svg",
+          "des": "aconvert 这个网站狠厉害，有很多功能，比如pdf转word、视频转动图,在线转换PDF，在线转换文档，在线转换电子书，在线转换图像，在线转换视频，在线转换音频。",
+          "tags": [
+            "在线工具",
+            "在线转换"
+          ]
+        },
+        {
+          "name": "imgcook",
+          "url": "https://www.imgcook.com/editor#/?fileparse=sketch&spm=a212rn.12314920.getstart/",
+          "icon": "https://img.alicdn.com/tfs/TB1bbwkzY2pK1RjSZFsXXaNlXXa-128-128.png",
+          "des": "设计稿智能生成代码,imgcook 由设计稿一键智能生成代码的大厨",
+          "tags": [
+            "在线工具",
+            "能生成代码"
+          ]
         }
       ]
     },
