@@ -110,7 +110,7 @@
         },{
           "name": "Vite官方中文文档",
           "url": "https://cn.vitejs.dev",
-          "icon": "https://cn.vitejs.dev/logo.svg",
+          "icon": "https://vitejs.dev/logo.svg",
           "des": "下一代前端开发与构建工具",
           "tags": [
             "Vite",
@@ -119,7 +119,7 @@
         },{
           "name": "Vite官网",
           "url": "https://vitejs.dev",
-          "icon": "https://cn.vitejs.dev/logo.svg",
+          "icon": "https://vitejs.dev/logo.svg",
           "des": "Next Generation Frontend Tooling",
           "tags": [
             "Vite",
