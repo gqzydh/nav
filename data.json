@@ -179,7 +179,7 @@
         },{
           "name": "Node.js",
           "url": "http://nodejs.cn/",
-          "icon": "http://static.nodejs.cn/_static/img/logo.svg",
+          "icon": "http://img.nodejs.cn/favicon.png",
           "des": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行器",
           "tags": [
             "node.js"
