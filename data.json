@@ -6,7 +6,7 @@
         {
           "name": "Vue.js 官网",
           "url": "https://cn.vuejs.org/index.html",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "icon": "https://cn.vuejs.org/logo.svg",
           "des": "渐进式JavaScript 框架",
           "tags": [
             "前端开发框架",
@@ -15,7 +15,7 @@
         },{
           "name": "Vue Router 官网",
           "url": "https://router.vuejs.org/zh/",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "icon": "https://cn.vuejs.org/logo.svg",
           "des": "Vue.js 的官方路由",
           "tags": [
             "vue路由"
@@ -82,7 +82,7 @@
         {
           "name": "Vue3 中文官方文档",
           "url": "https://v3.cn.vuejs.org/",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "icon": "https://cn.vuejs.org/logo.svg",
           "des": "渐进式JavaScript 框架,Vue3中文文档",
           "tags": [
             "前端开发框架",
@@ -92,7 +92,7 @@
         {
           "name": "Vue3中文文档",
           "url": "https://staging-cn.vuejs.org/",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "icon": "https://cn.vuejs.org/logo.svg",
           "des": "渐进式JavaScript 框架,Vue3中文文档",
           "tags": [
             "前端开发框架",
@@ -101,7 +101,7 @@
         },{
           "name": "Vue.js 中文网",
           "url": "https://vue3js.cn/docs/zh/",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "icon": "https://cn.vuejs.org/logo.svg",
           "des": "渐进式JavaScript 框架,Vue3中文文档",
           "tags": [
             "前端开发框架",
@@ -138,7 +138,7 @@
         },{
           "name": "Vue Router",
           "url": "https://next.router.vuejs.org/zh/",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "icon": "https://cn.vuejs.org/logo.svg",
           "des": "Vue Router 是 Vue.js 的官方路由",
           "tags": [
             "Vue 路由"
@@ -146,7 +146,7 @@
         },{
           "name": "Vuex",
           "url": "https://next.vuex.vuejs.org/zh/api/",
-          "icon": "https://cn.vuejs.org/images/icons/apple-icon-120x120.png",
+          "icon": "https://cn.vuejs.org/logo.svg",
           "des": "Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式",
           "tags": [
             "Vue 状态管理"
