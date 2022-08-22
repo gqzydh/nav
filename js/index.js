@@ -16,14 +16,11 @@ $(function(){
 		dataType: 'json',
 		success: function(json){
 			if(json != ''){
-				var navData = json
-
-					console.log("kkk01===",navData);
-				
-			var navHtml = template("tpl-nav",navData);
-			var conList = template("tpl-content",navData);
-			document.getElementById('category').innerHTML = navHtml;
-			document.getElementById('mainContent').innerHTML = conList;
+				var navData = json				
+				var navHtml = template("tpl-nav",navData);
+				var conList = template("tpl-content",navData);
+				document.getElementById('category').innerHTML = navHtml;
+				document.getElementById('mainContent').innerHTML = conList;
 			}
 
 			$(window).scroll(function(){
