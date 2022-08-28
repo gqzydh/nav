@@ -152,6 +152,14 @@
             "Vue 状态管理"
           ]
         },{
+          "name": "Pinia 中文文档",
+          "url": "https://pinia.web3doc.top/introduction.html/",
+          "icon": "https://pinia.vuejs.org/logo.svg",
+          "des": "Vue 新一代的轻量级状态管理库, 同时支持 Vue2 和 Vue3",
+          "tags": [
+            "Vue 状态管理"
+          ]
+        },{
           "name": "Pinia",
           "url": "https://pinia.vuejs.org/",
           "icon": "https://pinia.vuejs.org/logo.svg",
