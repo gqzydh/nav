@@ -502,7 +502,7 @@
           "icon": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png",
           "des": "微信开发者平台文档",
           "tags": [
-            "Docker"
+            "微信开发"
           ]
         },
         {
@@ -511,7 +511,7 @@
           "icon": "https://res.wx.qq.com/community/dist/community/images/communitySvgLogo_4dc945.svg",
           "des": "微信开放社区",
           "tags": [
-            "Docker"
+            "微信开发"
           ]
         }
       ]
