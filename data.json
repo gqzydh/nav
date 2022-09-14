@@ -308,6 +308,15 @@
           ]
         },
         {
+          "name": "Webpack 印记中文",
+          "url": "https://webpack.docschina.org/concepts/",
+          "icon": "https://www.webpackjs.com/assets/favicon.ico",
+          "des": "webpack 是一个模块打包器",
+          "tags": [
+            "工具"
+          ]
+        },
+        {
           "name": "VueUse",
           "url": "https://vueuse.org/",
           "icon": "https://d33wubrfki0l68.cloudfront.net/2f6479d73bc25170dc532dd42e059166573bf478/61057/favicon.svg",
